@@ -1,0 +1,1317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {"type":"Feature","geometry":{"type":"Point","coordinates":[139.74542422,35.65863174]},"properties":{"name":"東京タワー (Tokyo Tower)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.135508971767,34.2087970155378]},"properties":{"name":"神津島村郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.544465837052,34.11966632223]},"properties":{"name":"snapper"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.219199437233,34.3288505624752]},"properties":{"name":"民宿とうべえ (Minshuku Toube)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.259221988255,34.3815289575142]},"properties":{"name":"新島村博物館 (Niijima Museum)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.392433161737,34.7260155004749]},"properties":{"name":"火口西展望所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.379907861899,34.7376535097175]},"properties":{"name":"山頂口展望所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.39089695277,34.728825469255]},"properties":{"name":"火口展望台"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.359997332447,34.7440118962588]},"properties":{"name":"伊豆大島火山博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.353605639538,34.7480525864412]},"properties":{"name":"桜田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.353360938454,34.7482752755589]},"properties":{"name":"船宿 忠兵衛丸"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.356757288881,34.7477175551792]},"properties":{"name":"市松"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.356397513609,34.7489716088199]},"properties":{"name":"大島館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.362658411813,34.7455357221866]},"properties":{"name":"椿園キャンプ場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.363521513138,34.7451677596258]},"properties":{"name":"ゲストハウス もりおの家"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.362692368131,34.7459591169989]},"properties":{"name":"ホテル 椿園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.353106894892,34.7512631784308]},"properties":{"name":"大島観光協会"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.353048414567,34.7523980527641]},"properties":{"name":"助六荘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.353630972029,34.750609969106]},"properties":{"name":"ホテル奥源"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.353429929068,34.7509749550662]},"properties":{"name":"マップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.354828965292,34.7507809849731]},"properties":{"name":"かんいち"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.354099263786,34.7513736699379]},"properties":{"name":"交楽荘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.353670048744,34.7524537037188]},"properties":{"name":"ホテル赤門"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.355245963247,34.7524229997484]},"properties":{"name":"鎮西八郎源為朝"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.352820961137,34.7527109966373]},"properties":{"name":"三芳"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.35603845699,34.7546417750594]},"properties":{"name":"山海荘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.356389877929,34.7508339060825]},"properties":{"name":"高月"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.358466333709,34.7499856142569]},"properties":{"name":"ホテル白岩"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.357733847426,34.7523694891959]},"properties":{"name":"三浜館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.356674194717,34.7527710020134]},"properties":{"name":"ゲストハウス　オアシスアイランドゲート"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.35749489556,34.7550584069127]},"properties":{"name":"大陣"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.352407107286,34.7579163930919]},"properties":{"name":"旅荘　富士や"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.357564694658,34.7559727754567]},"properties":{"name":"ふれあい民宿　椿山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.369119275,34.7500335906215]},"properties":{"name":"mashio"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.368081810678,34.7528721179851]},"properties":{"name":"溶岩樹型"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.368754469163,34.7529738980972]},"properties":{"name":"小熊"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.370063314532,34.7531325094941]},"properties":{"name":"展望広場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.391733374131,34.7462252877312]},"properties":{"name":"新火口展望台"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.390194110891,34.7843503623466]},"properties":{"name":"朝海館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.408021986189,34.6855740098983]},"properties":{"name":"民宿なぎ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.438375969807,34.6792440026144]},"properties":{"name":"ボム・サッグ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.435648954099,34.6868940085502]},"properties":{"name":"波浮港見晴台"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.442720941174,34.6852320034571]},"properties":{"name":"鉄砲場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.439627951819,34.6866479600337]},"properties":{"name":"波浮屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.439790546885,34.6868791614525]},"properties":{"name":"踊り子の里資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.439527969328,34.6874779922849]},"properties":{"name":"素泊まり民宿高桝"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.442776996047,34.6887300052543]},"properties":{"name":"金子勇博古館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.439274644418,34.6936674052583]},"properties":{"name":"椿トンネル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.443239987745,34.7022769778419]},"properties":{"name":"筆島"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.395303189238,34.7241902247037]},"properties":{"name":"火口南展望所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.407256441903,34.7268811670915]},"properties":{"name":"櫛形山展望台"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.443518734978,34.7450176953867]},"properties":{"name":"海のふるさと村"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.423142788377,34.7682346976376]},"properties":{"name":"石の反橋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.411302184449,34.7839462732864]},"properties":{"name":"民宿 あさの"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.21799614391,35.6339540721672]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216645706544,35.6356130857641]},"properties":{"name":"神奈川県立陣馬相模湖自然公園案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216636274233,35.635642508614]},"properties":{"name":"甲州道中歴史案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216602767073,35.6360152944538]},"properties":{"name":"小仏峠 頂上 560m"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.21666843392,35.6360829739527]},"properties":{"name":"高尾・小仏峠案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216668344089,35.6361067749279]},"properties":{"name":"13B-550"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216705983499,35.63560870519]},"properties":{"name":"甲州道中"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216738233018,35.6356241102079]},"properties":{"name":"13B-560"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216834801911,35.6362446890281]},"properties":{"name":"小仏峠"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.185666315824,35.6522773877982]},"properties":{"name":"1250-50"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.185718597773,35.6523884851079]},"properties":{"name":"125-040"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.185752104933,35.6524298728309]},"properties":{"name":"明王 (のの沢) 林道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.184943441515,35.6529747726871]},"properties":{"name":"七ツ久保林道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.185032015402,35.6530206127198]},"properties":{"name":"125-020"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.185166044042,35.6530271091554]},"properties":{"name":"中の沢作業道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.18665877455,35.6606928999509]},"properties":{"name":"明王林道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.19930175369,35.6575509088441]},"properties":{"name":"関場峠"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.199327265844,35.6575683533379]},"properties":{"name":"小下沢風景林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.199619577637,35.6576304673829]},"properties":{"name":"関場峠 No.13"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.189074074854,35.6633994909939]},"properties":{"name":"陣馬高原下"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.18937240536,35.6635645810285]},"properties":{"name":"陣馬山周辺案内"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.18935533737,35.663578156056]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.194464505548,35.6681784247691]},"properties":{"name":"林道くぬぎ沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.19667454081,35.6684289640534]},"properties":{"name":"林道鞍骨沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.177732934224,35.6768934894529]},"properties":{"name":"林道三ツ沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.181652732966,35.6795284590502]},"properties":{"name":"林道醍醐線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.214208487346,35.6624123739163]},"properties":{"name":"南土代沢林道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.212363257921,35.67027437731]},"properties":{"name":"林道南土代沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.213865151245,35.6708781211176]},"properties":{"name":"林道北土代沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216773177482,35.6705236693958]},"properties":{"name":"夕焼小焼中村雨紅之墓入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.200969386183,35.6769186647334]},"properties":{"name":"林道盆堀線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.042063610798,35.747014416412]},"properties":{"name":"奥多摩周遊道路"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[138.948250479552,35.8418832825]},"properties":{"name":"奥多摩小屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.003932732102,35.8276013537847]},"properties":{"name":"鷹ノ巣山避難小屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.064303471782,35.7234045805384]},"properties":{"name":"中31"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.064303112456,35.7234446916352]},"properties":{"name":"11-040"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.06435449609,35.7234285013404]},"properties":{"name":"浅間尾根附近案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.064300327678,35.7235185689297]},"properties":{"name":"林道入間白岩線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.06662435915,35.7255112609472]},"properties":{"name":"中32"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.066820191882,35.7254829651278]},"properties":{"name":"11-080"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.0640735929,35.7312922944367]},"properties":{"name":"中4"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.064247866066,35.7314490767199]},"properties":{"name":"11-030"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.060081210283,35.7397069831096]},"properties":{"name":"林道入間白岩線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.11430100555,35.756276796383]},"properties":{"name":"神戸岩"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.173397305336,35.7245037631432]},"properties":{"name":"作業道橋沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.201786314103,35.6851739040763]},"properties":{"name":"152-425"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.20040084244,35.6974284786826]},"properties":{"name":"152-330"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.200341733294,35.6975732903694]},"properties":{"name":"盆堀間伐作業道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.200447734498,35.6975199617637]},"properties":{"name":"152-320"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.200443871742,35.6976038576389]},"properties":{"name":"多摩自然情報地図 (戸倉三山コース)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.181987535072,35.7150931986264]},"properties":{"name":"林道盆堀線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.1803752388,35.7243331837159]},"properties":{"name":"152-640"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.200235911754,35.7063575058429]},"properties":{"name":"152-290"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.201768886786,35.7103364771981]},"properties":{"name":"みなと区民の森案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.215744786145,35.7104895807271]},"properties":{"name":"今熊山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.215842433016,35.7106984837814]},"properties":{"name":"152-070"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.21675305522,35.7097684816894]},"properties":{"name":"152-050"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.215438909791,35.7116961633728]},"properties":{"name":"152-080"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.215489844267,35.7147059757208]},"properties":{"name":"152-090"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.217171580311,35.7151285000748]},"properties":{"name":"152-110"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.217640950047,35.7161606958423]},"properties":{"name":"152-160"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.217415742405,35.716424212871]},"properties":{"name":"152-150"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.203887653215,35.7180219986794]},"properties":{"name":"みなと区民の森"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.207616470128,35.7242629536018]},"properties":{"name":"かたらいの路 秋川丘陵コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.207695162547,35.7242938023511]},"properties":{"name":"151-670"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.207056909538,35.7248255220605]},"properties":{"name":"151-690"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.210921012732,35.7218012869981]},"properties":{"name":"151-650"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.218680300831,35.7170161566088]},"properties":{"name":"151-560"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.217545638795,35.7178177096887]},"properties":{"name":"151-580"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.218195839398,35.7173828736136]},"properties":{"name":"151-570"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.217308034402,35.718232121868]},"properties":{"name":"151-590"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.214154139271,35.72092771765]},"properties":{"name":"151-640"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.218726564068,35.7215867244339]},"properties":{"name":"広徳寺　総門"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.21814777953,35.7217147910781]},"properties":{"name":"広徳寺　山門"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.208216005749,35.7241442988448]},"properties":{"name":"151-660"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.217313603957,35.7222417145978]},"properties":{"name":"広徳寺のカヤ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.147767382134,35.7619308017728]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.171719971038,35.7553304864859]},"properties":{"name":"林道三ツ合線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.170048475789,35.7586965021092]},"properties":{"name":"林道大岳線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.170368635356,35.7585381697453]},"properties":{"name":"13E-570"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.171444278077,35.7602620948059]},"properties":{"name":"13F-010"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.171565011651,35.7602489736095]},"properties":{"name":"関東ふれあいの道 コース略図　杉の木陰の道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.164730988296,35.7697227888118]},"properties":{"name":"林道御岳線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.165015933904,35.7696375111394]},"properties":{"name":"林道鍾乳洞沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.17082201508,35.7684257565541]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.169773231986,35.7689068162233]},"properties":{"name":"13F-030"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.16986926189,35.7689052126959]},"properties":{"name":"鳥獣保護区"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.183093091692,35.7335820872493]},"properties":{"name":"秩父多摩甲斐国立公園 秋川渓谷周辺地図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.190111000187,35.7279900232353]},"properties":{"name":"秩父多摩甲斐国立公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.190145944651,35.7280117549083]},"properties":{"name":"秩父多摩甲斐国立公園カントリーコード"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.188987207766,35.731893607506]},"properties":{"name":"林道星竹線 (起点)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.186146734838,35.734369108568]},"properties":{"name":"06-007"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.184901759686,35.7479607522908]},"properties":{"name":" 林道宝沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216963530491,35.728396069087]},"properties":{"name":"あきる野市五日市郷土館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.215449509911,35.7327523995388]},"properties":{"name":"84-020"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.216475565629,35.7319728002302]},"properties":{"name":"84-010"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.208053590346,35.7360538170229]},"properties":{"name":"金比羅公園展望台"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.203936341904,35.7385340740973]},"properties":{"name":"作業道南沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.204051775418,35.7387028002299]},"properties":{"name":"南沢間伐作業道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.204434098403,35.7435631114089]},"properties":{"name":"南沢基幹作業道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.206949560861,35.7488028213668]},"properties":{"name":"深沢家屋敷跡入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.206669286493,35.7491064743935]},"properties":{"name":"深沢家屋敷跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.206738995759,35.7490913099961]},"properties":{"name":"五日市憲法草案と深沢家土蔵"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.209889656955,35.7420173868688]},"properties":{"name":"南沢の鳥ノ巣石灰岩産地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.213483816406,35.7418170966861]},"properties":{"name":"林道南沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.209132916159,35.7469078982408]},"properties":{"name":"深沢小さな美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.193987769627,35.7569622644305]},"properties":{"name":"林道深沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.204437781495,35.7501883883654]},"properties":{"name":"林道深沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.214273884699,35.7709857623012]},"properties":{"name":"林道梅の木線起点"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.048255338725,35.7927058687694]},"properties":{"name":"奥多摩水と緑のふれあい館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.05095100323,35.7893729904387]},"properties":{"name":"小河内ダム展望塔"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.081817385887,35.7773487211373]},"properties":{"name":"御前山避難小屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.097702564551,35.8084214655699]},"properties":{"name":"奥多摩ビジターセンター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.09956333483,35.8069143748109]},"properties":{"name":"氷川キャンプ場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.119782794908,35.8005280636426]},"properties":{"name":"アメリカキャンプ村"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.065923044407,35.8424914055894]},"properties":{"name":"林道倉沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.150915528047,35.7866665224881]},"properties":{"name":"御岳ビジターセンター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.166216262787,35.7807606648439]},"properties":{"name":"東雲山荘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.154092869207,35.7837046850073]},"properties":{"name":"国民宿舎山楽荘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.155521010845,35.8101263152217]},"properties":{"name":"御岳山登山口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.183872559865,35.7792679893736]},"properties":{"name":"日の出山ハイキングコース入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.183912085737,35.7793059588607]},"properties":{"name":"林道不動沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.185700811131,35.7792865004118]},"properties":{"name":"武蔵野の路 日の出山コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.192887513067,35.777195308861]},"properties":{"name":"林道焼岩線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.192273873896,35.7800289789735]},"properties":{"name":"茂幸屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.192802801935,35.7822514175283]},"properties":{"name":"林道大入線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.184078992717,35.8001099997913]},"properties":{"name":"玉堂美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.183163429779,35.8014148937931]},"properties":{"name":"御岳インフォメーションセンター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.196766977453,35.8033179897164]},"properties":{"name":"澤乃井櫛かんざし美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.213097001845,35.796313007906]},"properties":{"name":"吉川英治記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.153037797906,35.845645982943]},"properties":{"name":"中茶屋キャンプ場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.154081550434,35.8467632096204]},"properties":{"name":"百軒茶屋キャンプ場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.47993670609,35.5030048248705]},"properties":{"name":"Hotel Seeds"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.480164608678,35.5032209983537]},"properties":{"name":"Hotel American"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.481360895142,35.5042340661297]},"properties":{"name":"La Foret"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.481688061568,35.5045659997276]},"properties":{"name":"APEX Resort"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.226887938087,35.6264410248065]},"properties":{"name":"一丁平"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.221444776286,35.629828182459]},"properties":{"name":"小仏城山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.221222083927,35.6299851642335]},"properties":{"name":"111-170"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.221364287236,35.6299677867313]},"properties":{"name":"高尾・小仏城山案内図 / 小仏城山周辺図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.221329432603,35.6300091860685]},"properties":{"name":"高尾鳥獣保護区・特別保護地区 区域案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.221238253602,35.6300440870804]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.222042874602,35.630855056721]},"properties":{"name":"111-200"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.2220844666,35.6309139059128]},"properties":{"name":"111-210"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.21934792875,35.6320183059124]},"properties":{"name":"明治の森　高尾国定公園案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.219156138437,35.6321360025401]},"properties":{"name":"13B-590"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.225570828217,35.6395849995193]},"properties":{"name":"122-010"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.232058551031,35.6396239846807]},"properties":{"name":"122-005"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.240566405255,35.6394254813855]},"properties":{"name":"木下沢梅林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.251081904308,35.6228210052662]},"properties":{"name":"大山橋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.243577288593,35.6253415130453]},"properties":{"name":"高尾山ビジターセンター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.262599114734,35.6207435237193]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.262658044217,35.6208394030538]},"properties":{"name":"峯の薬師北参道口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.241556079204,35.6348794092631]},"properties":{"name":"日影沢キャンプ場を利用される皆様へ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.241682112838,35.6348902877877]},"properties":{"name":"高尾山自然休養林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.241711577579,35.6350363081078]},"properties":{"name":"いろはの森案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.242902563983,35.638531808917]},"properties":{"name":"林道日影線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.24296823083,35.638524216199]},"properties":{"name":"林道日影沢線 起点"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.242999851528,35.6385243622128]},"properties":{"name":"高尾鳥獣保護区・特別保護地区 区域案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.254364348356,35.6325404921106]},"properties":{"name":"高尾山修験道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.254412947213,35.632557357967]},"properties":{"name":"蛇滝水行道場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.259245164789,35.6289190693864]},"properties":{"name":"琵琶滝"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.262301592712,35.6306358686549]},"properties":{"name":"自然研究路6号路"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.262254610823,35.6306391542899]},"properties":{"name":"高尾山琵琶瀧水行道場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.253997386563,35.6345194679859]},"properties":{"name":"高尾蛇滝水行道場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.254898127298,35.6364392577484]},"properties":{"name":"お知らせ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255351866348,35.6378546670489]},"properties":{"name":"高尾梅郷案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255139774109,35.6384009074377]},"properties":{"name":"蛇滝水行道場入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255858695831,35.638629784117]},"properties":{"name":"八王子市エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.261774730798,35.6355094121125]},"properties":{"name":"金比羅台 (Kompiradai Rest Place)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.257537736929,35.639081621991]},"properties":{"name":"いのはな慰霊の碑"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.264503453305,35.6079089679998]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.264506148251,35.6079481877128]},"properties":{"name":"梅の木平国有林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.2637820163,35.6187881590061]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.263728297046,35.6194613730255]},"properties":{"name":"関東ふれあいの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.272665006987,35.6293660701347]},"properties":{"name":"四辻"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.270168049824,35.632126802934]},"properties":{"name":"かたらいの道 高尾大戸コース案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.270280788392,35.6323011571932]},"properties":{"name":"高尾山・陣馬山 ハイキングコース案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.271203537852,35.6330141219718]},"properties":{"name":"トリックアート美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.276214969327,35.6334713214357]},"properties":{"name":"高乗寺 沿革"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.226371945788,35.6496035603388]},"properties":{"name":"くらしを育む国有林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.2263962003,35.6495764055304]},"properties":{"name":"小下沢風景林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.226345175992,35.6496297661801]},"properties":{"name":"124-020"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.226327748676,35.6496765570898]},"properties":{"name":"至 ← 1時間 景信山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.226485941997,35.6497365603691]},"properties":{"name":"124-010"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.22753876751,35.6492406924998]},"properties":{"name":"小下沢国有林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.232055856085,35.6397634988385]},"properties":{"name":"八王子市エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.238822775289,35.6450406200336]},"properties":{"name":"一番口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.238753066023,35.6451124529397]},"properties":{"name":"心をはぐくむ「こげさわの森」"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.237366336719,35.6459058956518]},"properties":{"name":"心をはぐくむ「こげさわの森」"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.237509438343,35.6458581535309]},"properties":{"name":"二番口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.229309975756,35.6514288970726]},"properties":{"name":"123-070"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.227202078942,35.6566580960274]},"properties":{"name":"滝ノ沢林道 新設工事起点"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.229972393446,35.6510474236839]},"properties":{"name":"123-050"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.229938886286,35.651073556056]},"properties":{"name":"周辺案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.229777998019,35.6511575007691]},"properties":{"name":"123-060"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.235684331181,35.6602932240571]},"properties":{"name":"板当国有林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.24179215646,35.6408815014558]},"properties":{"name":"木下沢梅林 梅の里"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.241735652429,35.6411671685461]},"properties":{"name":"八王子市エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.241271672585,35.6434013668033]},"properties":{"name":"林道木下沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.241408486002,35.6434166973166]},"properties":{"name":"林道木下沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.247932500753,35.6512202037625]},"properties":{"name":"121-130"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.25063885521,35.6518717572157]},"properties":{"name":"121-100"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.251638141132,35.6598312149159]},"properties":{"name":"滝ノ沢国有林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.252430455213,35.6522892128806]},"properties":{"name":"121-090"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.252801998414,35.6526692934533]},"properties":{"name":"詰城"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.253044453709,35.6525865912279]},"properties":{"name":"松木曲輪"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.25219581526,35.6530138973026]},"properties":{"name":"本丸跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.252799303468,35.6529036037943]},"properties":{"name":"121-080"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.25317614673,35.6531980601144]},"properties":{"name":"史跡八王子城跡 本丸周辺の曲輪"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.253351767368,35.6532295203065]},"properties":{"name":"121-070"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.256992998541,35.6522530076846]},"properties":{"name":"御主殿の滝"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.253312870316,35.6535860196224]},"properties":{"name":"小宮曲輪"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.254771375011,35.654092006501]},"properties":{"name":"121-060"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.254820243363,35.65409061964]},"properties":{"name":"柵門跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.257014827602,35.6549514907143]},"properties":{"name":"金子丸"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.257221350286,35.6549668190112]},"properties":{"name":"金子丸"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.258539538134,35.6550911240914]},"properties":{"name":"121-040"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.258959500529,35.6550441903698]},"properties":{"name":"121-050"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.259039899747,35.6550201760599]},"properties":{"name":"八王子城跡自然公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.259967410278,35.654786017912]},"properties":{"name":"史跡 八王子城跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.25257310768,35.6589855050021]},"properties":{"name":"121-021"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.252591882469,35.6591968785792]},"properties":{"name":"121-020"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.253682167729,35.661548298903]},"properties":{"name":"121-010"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.261206366718,35.6575239757062]},"properties":{"name":"北条氏照及び家臣墓"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.229039942182,35.6668128149403]},"properties":{"name":"林道中の沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.238565048634,35.6658109247249]},"properties":{"name":"茗荷沢林道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.233345028349,35.667725802723]},"properties":{"name":"林道駒木野線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.248363242932,35.6670167967296]},"properties":{"name":"真言宗智山派 千手山 浄福寺"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.248345905447,35.667085398717]},"properties":{"name":"浄福寺城跡 (新城)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.248378065134,35.6670940834324]},"properties":{"name":"浄福寺観音堂内厨子"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.251485247871,35.66593068805]},"properties":{"name":"松竹農村公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255661874953,35.6708449893989]},"properties":{"name":"源正院入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.262459965697,35.6696240686759]},"properties":{"name":"小田野城址"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.260656507932,35.6698922641591]},"properties":{"name":"小谷田子寅の碑"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.261018888318,35.670268903968]},"properties":{"name":"深沢山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.261066858354,35.6702386911134]},"properties":{"name":"心源院"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.266354072622,35.641435167589]},"properties":{"name":"小仏関跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.279011963796,35.6462809696091]},"properties":{"name":"独立行政法人森林総合研究所多摩森林科学園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.284399609712,35.6485102800188]},"properties":{"name":"武蔵陵墓地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.264016296926,35.6568015219116]},"properties":{"name":"北条氏照の墓"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.266135602345,35.6573409177149]},"properties":{"name":"国史跡八王子城跡案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.267910853009,35.6576231684377]},"properties":{"name":"お知らせ　国指定史跡「八王子城跡」"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.267882466246,35.6577104637786]},"properties":{"name":"八王子城跡案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.291397575607,35.6486573704168]},"properties":{"name":"浅川ゆったりロード"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.264079628154,35.6692143664076]},"properties":{"name":"史跡 八王子城跡 伝小田野屋敷 (小田野城跡)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.263860349393,35.6716935657366]},"properties":{"name":"小田野のキンモクセイ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.280940287385,35.675865455566]},"properties":{"name":"八坂神社入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.289972667903,35.6747988783033]},"properties":{"name":"大楽寺霊園入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.29027575948,35.6754341123046]},"properties":{"name":"照念山長圓寺入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.294097462193,35.6819732623267]},"properties":{"name":"浅川ゆったりロード"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.311418957165,35.6095409884478]},"properties":{"name":"東京家政学院生活文化博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.343870596804,35.6120471624943]},"properties":{"name":"緑地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.34062426503,35.6261223008456]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.3406124971,35.6262089734436]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340587074777,35.6262995889238]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340550333682,35.6263334693026]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340438313766,35.6265257985945]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340541081035,35.6264373008912]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340481882057,35.6264979787825]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340379204621,35.6266067753676]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340432115391,35.6266067753676]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340372916414,35.6266473002322]},"properties":{"name":"躍進"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.361016830463,35.6054429077778]},"properties":{"name":"緑地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.363525465726,35.6049244156105]},"properties":{"name":"「戦車道路」の由来"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.362154097613,35.6058332902112]},"properties":{"name":"都立小山内裏公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.365472833599,35.6046996055945]},"properties":{"name":"緑地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.365461963984,35.6048415179036]},"properties":{"name":"サンクチュアリ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.366400883119,35.6051032114296]},"properties":{"name":"雑木林の木々"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.369268036011,35.6034719769255]},"properties":{"name":"緑地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.368903230174,35.6045297195039]},"properties":{"name":"「戦車道路」の由来"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.368012730233,35.6059123159463]},"properties":{"name":"都立小山内裏公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.369930633365,35.6040454033939]},"properties":{"name":"サンクチュアリ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.370748549431,35.6047324725953]},"properties":{"name":"かわら尾根と旧津島神社"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.371808112308,35.6050987561465]},"properties":{"name":"緑地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.371550565316,35.6052711242963]},"properties":{"name":"小山内裏公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.373329139747,35.6041283749639]},"properties":{"name":"戦車道路の由来"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.38242700745,35.6012541195322]},"properties":{"name":"緑地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.386627260224,35.5979564722978]},"properties":{"name":"緑地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.389452641456,35.607870259512]},"properties":{"name":"長池"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.38943171071,35.607979665718]},"properties":{"name":"長池伝説"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.392671305119,35.6084513961036]},"properties":{"name":"梅園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.392009246755,35.6094167585802]},"properties":{"name":"長池里山クラブ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.391215405538,35.6100120523309]},"properties":{"name":"築池で見ることのできるの水辺の鳥たち"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.391223400544,35.6102258194758]},"properties":{"name":"水辺観察ボード"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.391448698017,35.6115384993545]},"properties":{"name":"長池公園ご利用案内板"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.391850963602,35.6095322974757]},"properties":{"name":"里山ってどんなところ ?"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.392019936706,35.6102191734953]},"properties":{"name":"築池の自然"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.392044191219,35.6106924243548]},"properties":{"name":"築池のルーツ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.392162140016,35.6108276070723]},"properties":{"name":"つくいけの道で自然観察"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.392143365226,35.6108755892138]},"properties":{"name":"里山へようこそ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.391842968595,35.6119985968066]},"properties":{"name":"長池公園総合案内板"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.326027000989,35.6558960002782]},"properties":{"name":"八王子市郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.347303239167,35.6448138787498]},"properties":{"name":"湯殿川の川天狗"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.338178960995,35.6523000160407]},"properties":{"name":"サンホテル八王子"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.335872087345,35.6567395532024]},"properties":{"name":"マロウドイン八王子"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.337223063701,35.6563811702071]},"properties":{"name":"千代田ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.339036941923,35.656360002933]},"properties":{"name":"八王子インフォメーションセンター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340006942767,35.6565999956977]},"properties":{"name":"西東京バス案内所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340634595656,35.6564303658499]},"properties":{"name":"京王プラザホテル 八王子 (KEIO PLAZA HOTEL)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.343749953061,35.6586150159875]},"properties":{"name":"八王子プラザホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.309283302408,35.6707991595979]},"properties":{"name":"浅川のメタセコイア化石林"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.314388877326,35.667372723634]},"properties":{"name":"浅川ゆったりロード"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.312370452714,35.669406884408]},"properties":{"name":"浅川ゆったりロード"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.327845011461,35.6647739901426]},"properties":{"name":"八王子市こども科学館（サイエンスドーム八王子）"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.336720007142,35.6798660149164]},"properties":{"name":"村内美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.390221958665,35.671442015023]},"properties":{"name":"実践女子学園香雪記念資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.450434505024,35.540435771491]},"properties":{"name":"ホテル　ザ・エルシィ町田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.456737534215,35.5395322947994]},"properties":{"name":"高ヶ坂石器時代遺跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.442277981907,35.5446849724117]},"properties":{"name":"ホテルリソル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.443914981849,35.5454026648039]},"properties":{"name":"町田ヴィラ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.446727696835,35.5444895227342]},"properties":{"name":"新宿屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.444771435641,35.5467691058792]},"properties":{"name":"東横イン 町田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.451550302438,35.542562702569]},"properties":{"name":"町田市民文学館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.455074932287,35.5440229705874]},"properties":{"name":"町田市立国際版画美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.481078015659,35.5413388725275]},"properties":{"name":"成瀬山吹緑地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.451186394917,35.5674090714072]},"properties":{"name":"町田市立博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.467454974544,35.5694500143492]},"properties":{"name":"玉川大学教育博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.453239853825,35.5888690700677]},"properties":{"name":"町田市立 自由民権資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.454414940048,35.5895130229893]},"properties":{"name":"西山美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.490309462844,35.5826308961409]},"properties":{"name":"Pippi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.41288860924,35.6233099540609]},"properties":{"name":"多摩 山晴"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.424824973578,35.6186935916626]},"properties":{"name":"桜美林大学多摩アカデミーヒルズ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.426052790908,35.6195189161672]},"properties":{"name":"旧富澤邸"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.425868366781,35.6215894924029]},"properties":{"name":"パルテノン多摩"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.424588357332,35.6233112684353]},"properties":{"name":"京王プラザホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.428274953427,35.623504992389]},"properties":{"name":"多摩美術大学美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.42947474332,35.6245956940304]},"properties":{"name":"サンリオピューロランド"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.427795971717,35.6260539557483]},"properties":{"name":"東京都埋蔵文化財センター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.448036811699,35.631251375256]},"properties":{"name":"永山コパボウル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.45076634269,35.6288805901134]},"properties":{"name":"多摩永山ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.460543965568,35.638011998097]},"properties":{"name":"旧多摩聖蹟記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.395731416134,35.647427715557]},"properties":{"name":"レッサーパンダ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.396686055787,35.6470531579771]},"properties":{"name":"シャモア"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.396254684787,35.6472233917314]},"properties":{"name":"ターキン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.395049594834,35.6484718101777]},"properties":{"name":"オランウータン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.395512586531,35.647915053876]},"properties":{"name":"ユキヒョウ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.395743453559,35.6485415960617]},"properties":{"name":"シロテナガザル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.395334181116,35.6488866557031]},"properties":{"name":"ワライカワセミ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.396057774077,35.6480898846784]},"properties":{"name":"シフゾウ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.396381437074,35.6480898846784]},"properties":{"name":"ニホンカモシカ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.396114727266,35.6485764159831]},"properties":{"name":"オオカミ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.396364638578,35.6485937894393]},"properties":{"name":"トラ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.396931206028,35.6487040159009]},"properties":{"name":"ハクビシン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.397200071792,35.6490115542243]},"properties":{"name":"アジアゾウ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.395901736712,35.6495093944315]},"properties":{"name":"コアラ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.397129913369,35.6498400695699]},"properties":{"name":"アカカンガルー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.398267450013,35.6485729850901]},"properties":{"name":"インドクジャク"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.398058681541,35.6491874775845]},"properties":{"name":"スイギュウ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.397796463309,35.6495520245924]},"properties":{"name":"インドサイ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.397344071732,35.6499967200517]},"properties":{"name":"エミュー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.397643929374,35.6501186239885]},"properties":{"name":"トナカイ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399571354648,35.6493532539732]},"properties":{"name":"モグラ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399823871074,35.6495731206739]},"properties":{"name":"マレーバク"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399356567463,35.6496286712287]},"properties":{"name":"カワウソ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399854413794,35.649814155784]},"properties":{"name":"ノウサギ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399935172338,35.6498114549101]},"properties":{"name":"モルモット"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.398926903263,35.650268120299]},"properties":{"name":"イヌワシ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.398765026849,35.6506201070893]},"properties":{"name":"ワシ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399138636175,35.6503203125486]},"properties":{"name":"フクロウ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399483858739,35.6501211058631]},"properties":{"name":"タヌキ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399852796826,35.6506277716537]},"properties":{"name":"モウコノウマ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.400223531544,35.6481618608391]},"properties":{"name":"トキ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.400359177152,35.6483920235223]},"properties":{"name":"サギ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.400504344902,35.6485815988213]},"properties":{"name":"コウノトリ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.400216704348,35.649761306234]},"properties":{"name":"ヤギ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.400189485395,35.6500755561518]},"properties":{"name":"インコ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.400674934974,35.6499981799802]},"properties":{"name":"シカ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.400465537682,35.6501800138647]},"properties":{"name":"ヒグマ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.400760634252,35.6502303082704]},"properties":{"name":"ムササビ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.401046657839,35.6501503773786]},"properties":{"name":"イノシシ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.401440569091,35.6502051245734]},"properties":{"name":"ソデグロヅル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.404605154174,35.6489696537486]},"properties":{"name":"京王れーるらんど"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399652203023,35.6509682235652]},"properties":{"name":"コウノトリ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.401770969453,35.6518700053426]},"properties":{"name":"東京都多摩動物公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.403059962054,35.6524762971296]},"properties":{"name":"チーター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.403464653089,35.6527084182184]},"properties":{"name":"サーバル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.411489932343,35.6524819906738]},"properties":{"name":"日野市郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.413251977773,35.6600939692577]},"properties":{"name":"シティーホテル高幡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.411092787156,35.6620933555033]},"properties":{"name":"高幡不動尊境内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.411978076868,35.6622972763654]},"properties":{"name":"富士旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.412961282947,35.6618866606691]},"properties":{"name":"七生丘陵散策路案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.413635288904,35.6628784552638]},"properties":{"name":"高幡不動駅周辺案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.399658940388,35.6782870204919]},"properties":{"name":"日野宿本陣"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.403404106639,35.6801924780944]},"properties":{"name":"はばたき"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.403440937566,35.6802116688923]},"properties":{"name":"よろこび"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.40346824635,35.68022516812]},"properties":{"name":"みどり"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.415159190952,35.6747727536951]},"properties":{"name":"甲州街道 万願寺一里塚"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.415153801061,35.6748229596385]},"properties":{"name":"甲州街道 万願寺一里塚"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.407174785044,35.6824906710191]},"properties":{"name":"日野渡船場跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.419666038733,35.6697604653485]},"properties":{"name":"土方歳三資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.419611690658,35.6777339016955]},"properties":{"name":"万願寺渡船場跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.423495466958,35.6795815078077]},"properties":{"name":"万願寺渡船場跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.432590010894,35.6789839593106]},"properties":{"name":"くにたち郷土文化館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.446281683297,35.6477405146849]},"properties":{"name":"HOTEL桜ヶ丘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.446869361156,35.6505641922445]},"properties":{"name":"耳をすませばモデル地案内マップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.472248654394,35.6557411861452]},"properties":{"name":"郷土の森博物館 (Kyodo no mori)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.473189549823,35.6566286079256]},"properties":{"name":"府中市郷土の森博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.443276459345,35.6725025071742]},"properties":{"name":"Water Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.442710430885,35.6727704740592]},"properties":{"name":"La Festae"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.44445927108,35.6735940725297]},"properties":{"name":"シェレナ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.445167053692,35.675389087844]},"properties":{"name":"Hotel Vanilla"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.456698996489,35.6745460238449]},"properties":{"name":"武蔵府中熊野神社古墳展示館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.475773463906,35.6718379862841]},"properties":{"name":"ホテルリブマックス府中"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.478687778351,35.6680045866796]},"properties":{"name":"大国魂神社宝物殿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.478248771671,35.6721647012325]},"properties":{"name":"府中アーバンホテル別館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.484341954412,35.6665540236984]},"properties":{"name":"ＪＲＡ競馬博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.495608085716,35.6691956838173]},"properties":{"name":"マロウドイン東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.483690675831,35.6746960582176]},"properties":{"name":"三栄旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.492144541307,35.6789630899087]},"properties":{"name":"府中市美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.522058080942,35.6643185024446]},"properties":{"name":"調布アーバンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.536239335175,35.646752766055]},"properties":{"name":"調布市郷土博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.544504015452,35.6510410000827]},"properties":{"name":"LIVE MAX"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.544565999206,35.6513110098728]},"properties":{"name":"NOBES HOTEL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.54855110547,35.6435765724946]},"properties":{"name":"調布市 郷土博物館分室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.565898112595,35.6585978636767]},"properties":{"name":"富士フォトギャラリー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.545992973035,35.6721449976662]},"properties":{"name":"東京都神代植物公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.538021952025,35.6810849547667]},"properties":{"name":"三鷹天明反転住宅"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.240389706639,35.6953400971262]},"properties":{"name":"美山工業団地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.235453464153,35.7011978740467]},"properties":{"name":"林道糀谷山入線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.248544972114,35.7053534860896]},"properties":{"name":"癒しの散歩道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.253960286141,35.704902679733]},"properties":{"name":"癒しの散歩道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.261989697645,35.7009492613935]},"properties":{"name":"聖学山三光院"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.220938575623,35.7096073531652]},"properties":{"name":"今熊林道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.221013764613,35.7099450005679]},"properties":{"name":"今熊山周辺案内"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.219258366716,35.7141593821143]},"properties":{"name":"152-120"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.221929507213,35.7163539028495]},"properties":{"name":"151-540"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.222640254266,35.7164801545139]},"properties":{"name":"151-530"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.226507771059,35.7124794622049]},"properties":{"name":"秋川丘陵の自然"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.226534540854,35.7125033862868]},"properties":{"name":"152-010"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.229724099102,35.712842699017]},"properties":{"name":"今熊山 正福寺"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.225794598555,35.7160402785541]},"properties":{"name":"151-490"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.228053232673,35.7164210766369]},"properties":{"name":"かたらいの路 秋川丘陵コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.22809886709,35.7164210766369]},"properties":{"name":"都立小峰公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.2281564491,35.7164199826017]},"properties":{"name":"151-480"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.234349255005,35.7070347233012]},"properties":{"name":"羽生入林道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.237738688404,35.7073030118665]},"properties":{"name":"林道糀谷山入線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.23016418376,35.7127335822691]},"properties":{"name":"川口川 上流端"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.222903280981,35.7166913028644]},"properties":{"name":"151-520"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.223192807997,35.7167764184661]},"properties":{"name":"151-510"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.223925204448,35.7166869996739]},"properties":{"name":"151-500"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.219062354321,35.7197201078504]},"properties":{"name":"151-600"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.218978810999,35.7214341527418]},"properties":{"name":"かたらいの路 秋川丘陵コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.218941171589,35.7214472074057]},"properties":{"name":"151-620"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.22272451624,35.7205174036786]},"properties":{"name":"御岳神社"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.230083784542,35.7196190231223]},"properties":{"name":"都立小峰公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.230436463122,35.7203506811163]},"properties":{"name":"ふれあい広場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.230661760596,35.7203539630598]},"properties":{"name":"都立小峰公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.231897932258,35.7202911685161]},"properties":{"name":"都立小峰公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.231667604219,35.7207720815648]},"properties":{"name":"かたらいの路 秋川丘陵コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.231648739598,35.7208221856235]},"properties":{"name":"小峰公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.231514710958,35.7209266966083]},"properties":{"name":"小峰ビジターセンター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.231869455663,35.7210894796695]},"properties":{"name":"151-440"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.239267441354,35.7213790897505]},"properties":{"name":"151-370"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.236658554106,35.7220531894205]},"properties":{"name":"151-370"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.236763656994,35.7222665838432]},"properties":{"name":"151-370"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.238193146106,35.7253912224276]},"properties":{"name":"高尾神社"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.254735352569,35.7072570571192]},"properties":{"name":"上川の里特別緑地保全地区"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.25480775678,35.7072898089973]},"properties":{"name":"ようこそ八王子上川の里へ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.254896240836,35.7074182633383]},"properties":{"name":"北沢谷戸 癒しの散歩道 案内マップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.262352078031,35.7104218184106]},"properties":{"name":"151-160"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.25675198055,35.7124071064012]},"properties":{"name":"151-190"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.257600798662,35.7122114098813]},"properties":{"name":"151-180"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.257820796075,35.712215786253]},"properties":{"name":"秋川丘陵ハイキングコース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.259465970686,35.7113866054032]},"properties":{"name":"151-170"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.242589411275,35.7205700605133]},"properties":{"name":"網代城跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.242250207424,35.7207116940984]},"properties":{"name":"151-360"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.245683478608,35.7206681538315]},"properties":{"name":"151-340"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.247489900813,35.7205331569735]},"properties":{"name":"しいのき"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.247448129152,35.7205537967024]},"properties":{"name":"貴志嶋神社石造大黒天像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.247465556469,35.7205700605133]},"properties":{"name":"弁天洞穴 "}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.246585836311,35.721278882302]},"properties":{"name":"151-320"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.24669453246,35.7216186681834]},"properties":{"name":"かたらいの道 秋川丘陵コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.247305027527,35.7224888022397]},"properties":{"name":"151-300"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.247576678069,35.7224648082254]},"properties":{"name":"151-290"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.247668036734,35.7224993771069]},"properties":{"name":"網代弁天山園地案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.248157798227,35.7229610233905]},"properties":{"name":"右奥 凱旋山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.250720601901,35.7232222571166]},"properties":{"name":"151-260"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.251089360325,35.7236753665144]},"properties":{"name":"151-260"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.256220357565,35.721150377369]},"properties":{"name":"151-210"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.256536834039,35.720673477852]},"properties":{"name":"151-200"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.25624829517,35.7214302144629]},"properties":{"name":"151-220"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.252433958642,35.7227369101339]},"properties":{"name":"151-250"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.253564129101,35.7222218046098]},"properties":{"name":"かたらいの路 秋川丘陵コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.252824007138,35.7238137127783]},"properties":{"name":"網代橋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.252847992157,35.7237895733051]},"properties":{"name":"都立秋川丘陵自然公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255543746493,35.7223821053974]},"properties":{"name":"山田大橋キャンプ場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.271519385505,35.6896875648005]},"properties":{"name":"ボランティア掲示板"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.275706433045,35.6884945846603]},"properties":{"name":"宝生寺緑地保全地域"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.280207172281,35.687468524293]},"properties":{"name":"東京里山墓苑"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.274453912044,35.6922263183256]},"properties":{"name":"曾洞宗 龍生禅寺"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.263854151018,35.7103717078123]},"properties":{"name":"151-150"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.264190929418,35.7103493877977]},"properties":{"name":"151-140"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.267368180746,35.7102183852329]},"properties":{"name":"151-130"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.271549568899,35.7134632612105]},"properties":{"name":"この先私有地につき立入り禁止"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.271714679248,35.7132790915762]},"properties":{"name":"151-110"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.271746838935,35.7133381717825]},"properties":{"name":"151-100"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.273499541886,35.7148547675665]},"properties":{"name":"151-090"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.27848968329,35.7129222753747]},"properties":{"name":"根小屋城跡 (二城城跡)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.275811805428,35.7142582856388]},"properties":{"name":"151-080"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.278467135576,35.7139968766469]},"properties":{"name":"151-070"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.283298903995,35.7113934617897]},"properties":{"name":"根小屋城跡 (二城城跡)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.269693110533,35.7169780115251]},"properties":{"name":"秋川の六枚屏風岩"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.286302870305,35.7111473609084]},"properties":{"name":"根小屋城跡 (二城城跡)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.286419741123,35.7144237080735]},"properties":{"name":"秋川丘陵ハイキングコース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.228211515827,35.7314398156354]},"properties":{"name":"151-750"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.229822195131,35.7354790046874]},"properties":{"name":"林道 横沢・小机線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.235598901397,35.737256804217]},"properties":{"name":"横沢入里山保全地域"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.243302134621,35.7318419790578]},"properties":{"name":"横沢入"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.240916299058,35.7355377767594]},"properties":{"name":"横沢入"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.242484038892,35.7346745667066]},"properties":{"name":"横沢入里山保全地域"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.244204671987,35.7330971679901]},"properties":{"name":"横沢入"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.240825209889,35.7362138712224]},"properties":{"name":"林道 横沢・小机線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.240966065725,35.7362269963817]},"properties":{"name":"横沢入里山保全地域"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.249519644197,35.7400456695852]},"properties":{"name":"林道みかん沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.248081980417,35.7417785989157]},"properties":{"name":"林道みかん沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255476732172,35.7481783787888]},"properties":{"name":"日米首脳会談記念碑 入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.238393829741,35.7698719151885]},"properties":{"name":"AKABOKKO"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.263955211487,35.7418873842339]},"properties":{"name":"曹洞宗 塩澤山 寶光寺"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.29902022995,35.7367740219287]},"properties":{"name":"草花公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.300380279291,35.7362230588341]},"properties":{"name":"ふるさとの森づくり"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.301080156728,35.7365279994404]},"properties":{"name":"日の出山コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.30187426744,35.7360706610108]},"properties":{"name":"平井川・南小宮橋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.265462584534,35.7518150956206]},"properties":{"name":"椎たけおじさんの森"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.302464191087,35.7556275536273]},"properties":{"name":"自然にやさしさ多摩川に愛を…"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.302515035732,35.7556123904725]},"properties":{"name":"河川占用許可標識"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.3033859524,35.7552449746836]},"properties":{"name":"羽村市郷土博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.30406831269,35.7553783818031]},"properties":{"name":"牛枠"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.301635944395,35.7585862089258]},"properties":{"name":"大正土手・一本杉"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.301552850231,35.7586242611848]},"properties":{"name":"初代一本杉"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.288559348467,35.760686855924]},"properties":{"name":"154-030"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.288444094616,35.7608675627723]},"properties":{"name":"154-020"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.298924289878,35.7625692777636]},"properties":{"name":"吉祥寺跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.296740305759,35.7697770895043]},"properties":{"name":"羽村取水堰"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.329454253461,35.6863780242791]},"properties":{"name":"東京富士美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.347392980864,35.6897577524225]},"properties":{"name":"かたらいの道 ~滝山コース~"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.34745209001,35.6897098905996]},"properties":{"name":"滝山城址入口"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.323282737628,35.7137631832842]},"properties":{"name":"野鳥を観察するポイント"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.323239887989,35.7137936714085]},"properties":{"name":"滝山合戦記"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.359412169871,35.6883526019816]},"properties":{"name":"155-520"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.383511812988,35.6851828057163]},"properties":{"name":"薬師如来坐像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.383530587777,35.6852197985867]},"properties":{"name":"薬師堂 (東光寺薬師堂)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.38992892822,35.6969480084014]},"properties":{"name":"立川市歴史民俗資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.358387012469,35.7116790224705]},"properties":{"name":"ビジネス旅館みかど"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.36485048077,35.718439108348]},"properties":{"name":"フォレストイン昭和館 (Forest Inn Showakan)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.377965973749,35.7136699683248]},"properties":{"name":"家具の博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.316205091167,35.7404112597849]},"properties":{"name":"自然にやさしさ多摩川に愛を…"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.316191706269,35.7404353213068]},"properties":{"name":"生態系保持空間"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.31141868767,35.7481309165781]},"properties":{"name":"情操空間"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.313239842246,35.745051572028]},"properties":{"name":"多摩川水系多摩川右岸"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.313230589598,35.7450679766557]},"properties":{"name":"自然にやさしさ多摩川に愛を…"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.328327945758,35.7419640150893]},"properties":{"name":"東横イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.337365177179,35.7321368733032]},"properties":{"name":"福生市郷土資料室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.330416977951,35.7410300031548]},"properties":{"name":"やなぎ通り周辺イラストマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.308906728641,35.7510587206154]},"properties":{"name":"自然に優しさ多摩川に愛を…"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.307657172081,35.7528727692119]},"properties":{"name":"滝山・草花丘陵コース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.307646212635,35.7528915051007]},"properties":{"name":"河川占用許可標識"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.307671904452,35.7528543978303]},"properties":{"name":"154-470"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.309804954094,35.7548074998224]},"properties":{"name":"たま リバー 50 キロ 案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.309784831832,35.7548325775998]},"properties":{"name":"かたらいの道 羽村草花丘陵コース案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.308873311313,35.7552640745144]},"properties":{"name":"堰の筏通し場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.309058004935,35.7552712187248]},"properties":{"name":"羽村市公共施設案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.308796505356,35.7556770525598]},"properties":{"name":"多摩川の原水の流れ図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.316625862046,35.7591244061384]},"properties":{"name":"プラザイン羽村 (PLAZA INN HAMURA)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.315388702237,35.7601586559819]},"properties":{"name":"ホテルリブマックス羽村駅前"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.371046251116,35.7566794175417]},"properties":{"name":"ビジネスホテル純和 本館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.371809729276,35.7566340744675]},"properties":{"name":"ビジネスホテル純和 別館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.387287971116,35.76236400964]},"properties":{"name":"武蔵村山市立歴史民俗資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.220593083565,35.7718149057359]},"properties":{"name":"林道西の入ホウバ沢線"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.234660161925,35.7714996777323]},"properties":{"name":"TENGU-IWA"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.220943516357,35.7854075145648]},"properties":{"name":"吉野梅郷"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.220300951435,35.7879180048404]},"properties":{"name":"青梅きもの博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.256806957445,35.783739956037]},"properties":{"name":"青梅市郷土博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255589650404,35.7842013929424]},"properties":{"name":"かんぽの宿 青梅"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255958947817,35.7875470218799]},"properties":{"name":"青梅市立美術館・青梅市立小島善太郎美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.260482953419,35.7886980034371]},"properties":{"name":"昭和レトロ商品博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.26360801263,35.7893710229798]},"properties":{"name":"橋本屋旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.263330972196,35.7922500190698]},"properties":{"name":"青梅鉄道公園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.283482070481,35.7856995869414]},"properties":{"name":"コンフェスタイン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.301473079834,35.7774807064741]},"properties":{"name":"ホテル サーティマイルズ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.282071535822,35.803128782305]},"properties":{"name":"塩船観音寺案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.296745515988,35.8103885741199]},"properties":{"name":"立正佼成会 青梅錬成道場 施設案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.296420864844,35.812078593395]},"properties":{"name":"周辺ハイキングマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.296517972727,35.812103653111]},"properties":{"name":"立正佼成会 青梅錬成道場 施設案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.300137105343,35.8106659119624]},"properties":{"name":"霞丘陵ハイキングコース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.300125606908,35.810865955941]},"properties":{"name":"霞丘陵ハイキングコース"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.356821698086,35.7747635572091]},"properties":{"name":"瑞穂町郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.36809780069,35.7760301675789]},"properties":{"name":"六道山展望台"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.4119399883,35.6965960070034]},"properties":{"name":"立川ワシントンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.416256662735,35.6970866928779]},"properties":{"name":"立川アーバンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.413234999614,35.6973380168406]},"properties":{"name":"HOTEL METS"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.41397296562,35.6992719811246]},"properties":{"name":"立川駅エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.415567654912,35.6999801169335]},"properties":{"name":"立川グランドホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.410418960861,35.7030199885458]},"properties":{"name":"昭和天皇記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.418980714003,35.695240075803]},"properties":{"name":"ホテルロイヤルオーセンティック"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.416580954553,35.6971339666475]},"properties":{"name":"立川アーバンホテル アネックス別館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.419294046374,35.6963594903727]},"properties":{"name":"ザ・クレストホテル立川"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.417587247334,35.6988395242277]},"properties":{"name":"カプセルホテルファーストイン立川"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.409438090402,35.7118026557045]},"properties":{"name":"国立極地研究所南極・北極科学館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.446209997737,35.6980329654222]},"properties":{"name":"たましん歴史・美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.469878090191,35.6909480141886]},"properties":{"name":"国分寺市文化財資料展示室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.471894269015,35.6937897160407]},"properties":{"name":"武蔵国分寺"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.472800848799,35.6938704057626]},"properties":{"name":"国分寺市文化財保存館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.477695948446,35.699189983742]},"properties":{"name":"竜の子プロダクション"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.467794807216,35.7069067060085]},"properties":{"name":"Guest House JAPAN"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.464616927066,35.7201719973179]},"properties":{"name":"ふれあい下水道館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.411405939864,35.7322769549793]},"properties":{"name":"国立音楽大学楽器学資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.419659930189,35.7577723090293]},"properties":{"name":"13.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.422904016174,35.7551650032047]},"properties":{"name":"東大和市立郷土博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.427802978576,35.7585284015321]},"properties":{"name":"12.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.436326014329,35.7602370916353]},"properties":{"name":"11.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.444702265364,35.7388395891744]},"properties":{"name":"粟穂・稗穂"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.463549548846,35.7469070233476]},"properties":{"name":"8.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.443087363978,35.7557628554964]},"properties":{"name":"10.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.453692964054,35.7512442609809]},"properties":{"name":"9.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.466353999331,35.7666729983247]},"properties":{"name":"東村山ふるさと歴史館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.46824998357,35.770688971165]},"properties":{"name":"徳蔵寺板碑保存館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.52306419406,35.683997054742]},"properties":{"name":"少年デイキャンプ場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.518897987435,35.6981739824878]},"properties":{"name":"東京農工大学工学部附属繊維博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.485188975893,35.7067810227343]},"properties":{"name":"国分寺市民俗資料室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.512539083034,35.7156840582061]},"properties":{"name":"Edo-Tokyo Open Air Architectural Museum"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.512255484899,35.7258341097012]},"properties":{"name":"3.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.522178904348,35.7215199925873]},"properties":{"name":"2.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.529675974214,35.6875179926274]},"properties":{"name":"国際基督教大学博物館・湯浅八郎記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.533894013631,35.6888029911806]},"properties":{"name":"中近東文化センター付属博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.534582392633,35.688787961224]},"properties":{"name":"中近東文化センター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.545240094995,35.7018553661568]},"properties":{"name":"HOTEL METS MUSASHISAKAI"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.560485942671,35.702442968242]},"properties":{"name":"小田急バス 三鷹駅南口案内所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.559925932923,35.7039909926794]},"properties":{"name":"ファーストイン三鷹"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.561067961144,35.7030329732783]},"properties":{"name":"関東バス三鷹案内所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.531874870367,35.7174130686139]},"properties":{"name":"1.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.564699041354,35.7194302729403]},"properties":{"name":"NTT技術史料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.493622988602,35.7339808855522]},"properties":{"name":"5.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.482862968128,35.7386053124432]},"properties":{"name":"6.0Km"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.500412006361,35.7419180074199]},"properties":{"name":"GAS MUSEUM (がす資料館)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.523036615781,35.7345533023721]},"properties":{"name":"多摩六都科学館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.500136942221,35.7677029953753]},"properties":{"name":"高松宮記念ハンセン病資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.539391882833,35.7294860673537]},"properties":{"name":"田無第一ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.520950009039,35.7797750007798]},"properties":{"name":"清瀬市郷土博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717121944828,35.5489651570449]},"properties":{"name":"カナーンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.666944927666,35.590133959642]},"properties":{"name":"大田区多摩川台公園古墳展示室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.685828682748,35.5752224790666]},"properties":{"name":"昭和のくらし博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.711475853605,35.5606820898206]},"properties":{"name":"七福"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713780840792,35.5598059534679]},"properties":{"name":"ビスタホテル蒲田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716969860051,35.5623745573132]},"properties":{"name":"新島のモヤイ像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718238011737,35.5617429554253]},"properties":{"name":"カプセルイン蒲田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718368986106,35.5621760084653]},"properties":{"name":"三井ガーデンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718337006082,35.5626132975843]},"properties":{"name":"東横イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71997732979,35.5620042782957]},"properties":{"name":"京急EXイン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719011012039,35.5627050081513]},"properties":{"name":"ワシントンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716813553191,35.5635485212177]},"properties":{"name":"アーヴェストホテル蒲田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718375184481,35.5638832786421]},"properties":{"name":"ホテル オーク"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71919795145,35.5633309756411]},"properties":{"name":"ビジネスホテル新力"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718656985986,35.5637328900835]},"properties":{"name":"オークイン3"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718915970282,35.5636389884352]},"properties":{"name":"ビジネスホテル ソーシャル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74376157441,35.5523094770042]},"properties":{"name":"羽田イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.704720163342,35.5786614871977]},"properties":{"name":"池上本門寺霊寶殿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.715623015945,35.5823429743082]},"properties":{"name":"大田区立龍子記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717151679064,35.584126889467]},"properties":{"name":"南馬込三丁目アパート案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707147051913,35.5890080883631]},"properties":{"name":"西馬込第一ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71043174175,35.5859394024171]},"properties":{"name":"熊谷恒子記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.710666291871,35.5885312027367]},"properties":{"name":"大田区立郷土博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.734189036911,35.5874880785793]},"properties":{"name":"サンルートパティオ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.728738329262,35.5907318075108]},"properties":{"name":"ホテルモントレ大森"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.730054091659,35.5908435017118]},"properties":{"name":"felece"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.730285677339,35.5911400128994]},"properties":{"name":"大森パークホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.732457085044,35.5904440609084]},"properties":{"name":"アートホテルズ大森"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735144664711,35.5874508212847]},"properties":{"name":"京急EXイン大森海岸駅前"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.612766993892,35.6166249852009]},"properties":{"name":"導水管"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.571067198403,35.6329993735585]},"properties":{"name":"古民家園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.613579969224,35.6194759778877]},"properties":{"name":"野川水道橋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.599561938878,35.6306590141253]},"properties":{"name":"次大夫堀公園民家園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.600837277087,35.6385767811548]},"properties":{"name":"世田谷美術館分館 清川泰次記念ギャラリー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.624071213764,35.6116256989796]},"properties":{"name":"多摩川ドナウ川友好記念碑"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.622870974713,35.6166959673237]},"properties":{"name":"玉電と郷土の歴史館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.628084437296,35.6117521893891]},"properties":{"name":"カタリストBA"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.635868608727,35.6119855972641]},"properties":{"name":"五島美術館別館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.635364114864,35.6124359790579]},"properties":{"name":"五島美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.617947937462,35.621988996816]},"properties":{"name":"岡本公園民家園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.619197943179,35.6226580216703]},"properties":{"name":"静嘉堂文庫美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.623404304497,35.6216744173794]},"properties":{"name":"旧小坂邸"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.622199933196,35.6316239625364]},"properties":{"name":"世田谷美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.631777950418,35.6389829902866]},"properties":{"name":"東京農業大学「食と農」の博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.64363993425,35.6280179777912]},"properties":{"name":"長谷川町子美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.651577537932,35.6363563196951]},"properties":{"name":"SNOW Contemporary"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.655667208095,35.6355895766802]},"properties":{"name":"向井潤吉アトリエ館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.581325958948,35.656716999208]},"properties":{"name":"調布市武者小路実篤記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.581678637528,35.6579227166008]},"properties":{"name":"武者小路実篤記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.609207599242,35.6433837002081]},"properties":{"name":"ウルトラマン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.608872976798,35.6669219945246]},"properties":{"name":"世田谷文学館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.627940527188,35.6590376915554]},"properties":{"name":"土と農の交流園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.647221966446,35.6414610110886]},"properties":{"name":"世田谷区立郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.61632566989,35.6715168892086]},"properties":{"name":"住居表示街区案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.625945009615,35.6678970141373]},"properties":{"name":"賀川豊彦記念松沢資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.641750597545,35.6683030741822]},"properties":{"name":"よろづや旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.662788153352,35.6088433706064]},"properties":{"name":"城向橋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.666011937412,35.6083756594262]},"properties":{"name":"メープル通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.66653197213,35.6068855969262]},"properties":{"name":"鶯谷橋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.667876031458,35.6072504099115]},"properties":{"name":"ヒロ通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.668921850112,35.6071435589531]},"properties":{"name":"マリ・クレール通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.66814705318,35.6075429894541]},"properties":{"name":"しらかば通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.668052011422,35.6093192588135]},"properties":{"name":"サンセットアレイ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.665655845234,35.6120814140669]},"properties":{"name":"碑文谷そぞろ散歩"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.66839453904,35.609674420313]},"properties":{"name":"カトレア通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.669218833145,35.6077851007729]},"properties":{"name":"E通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.670583643556,35.6083791650792]},"properties":{"name":"自由通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.67056567725,35.6084578231279]},"properties":{"name":"すずかけ通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.669298783205,35.609761183771]},"properties":{"name":"ヒルサイド通り"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.684798764275,35.6067834197779]},"properties":{"name":"東京工業大学博物館 (The Museum, Tokyo Institute of Technology)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.65859095485,35.6295819760041]},"properties":{"name":"駒澤大学禅文化歴史博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.660134260508,35.6293402957393]},"properties":{"name":"サクラハウス  駒沢大学 Sakura House Komazawa Daigaku"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.689235004474,35.6342940110418]},"properties":{"name":"目黒区守屋教育会館郷土資料室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71177885535,35.5971992220945]},"properties":{"name":"ビジネスホテル 東京イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.711878029357,35.597784672745]},"properties":{"name":"ホテル ステイシード"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.708135198726,35.6037417091846]},"properties":{"name":"荏原町安全安心ステーション"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713209871598,35.6015240783892]},"properties":{"name":"チサンホテル品川ウエスト"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.705323831213,35.6132028711013]},"properties":{"name":"品川区防災掲示板"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.731684713562,35.6050292244827]},"properties":{"name":"ホテルルートイン (HOTEL ROUTE-INN)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.731690103454,35.6061936527725]},"properties":{"name":"東横イン品川大井町 (TOYOKO INN)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.732907769822,35.6044926892548]},"properties":{"name":"東京バニアンホテル (TOKYO BANYAN HOTEL)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.734130915912,35.6044664686145]},"properties":{"name":"ヴィアイン東京大井町 (VIAINN TOKYO-OIMACHI)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733851899185,35.605364977137]},"properties":{"name":"アワーズイン阪急 (OURS INN HANKYU)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.742740998416,35.6094976066112]},"properties":{"name":"東横イン 南品川"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.745015263221,35.6130845623617]},"properties":{"name":"スーパーホテル品川・青物横丁 (Super Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.722514980637,35.6266210138359]},"properties":{"name":"TOKO Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.706666004079,35.6316999692521]},"properties":{"name":"目黒寄生虫館 (Meguro Parasitological Museum)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.703051003712,35.6359079708591]},"properties":{"name":"長泉院附属現代彫刻美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707740838316,35.6348591124148]},"properties":{"name":"目黒区美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.708469012686,35.6355119674506]},"properties":{"name":"目黒区美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.715855949098,35.6307419580904]},"properties":{"name":"杉野学園衣裳博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.714759016305,35.6345450216797]},"properties":{"name":"久米美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716218059989,35.6350802601719]},"properties":{"name":"品川区エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719021971486,35.6368800107298]},"properties":{"name":"東京都庭園美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.721311956808,35.6360069714047]},"properties":{"name":"独立行政法人国立科学博物館附属自然教育園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.729298967831,35.6207630208972]},"properties":{"name":"Ｏ美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.724219174562,35.6248847052007]},"properties":{"name":"ホテルロイヤルオーク 五反田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.728043302727,35.6253918230847]},"properties":{"name":"アリエッタ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.726252960365,35.6261429650034]},"properties":{"name":"ホテルサンルート五反田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.724969986477,35.6273509692466]},"properties":{"name":"東急ステイ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.725560988102,35.6273449818431]},"properties":{"name":"日の出ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733130192686,35.6255902151959]},"properties":{"name":"ソニー歴史資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733049973131,35.6279269991757]},"properties":{"name":"ユニセフハウス"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735421884807,35.6194692596514]},"properties":{"name":"map_board"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735257942268,35.6204039653647]},"properties":{"name":"翡翠原石館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735965006228,35.6211320059179]},"properties":{"name":"原美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.736703601055,35.627635297379]},"properties":{"name":"品川プリンスホテル (Shinagawa Prince Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740737575669,35.627822658405]},"properties":{"name":"The Strings by Intercontinental Tokyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.726938015601,35.632242016972]},"properties":{"name":"畠山記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.732314971566,35.6290970084025]},"properties":{"name":"物流博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733496256164,35.6300175827568]},"properties":{"name":"グランドプリンスホテル新高輪"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.734095791785,35.638088874826]},"properties":{"name":"足下に眠る近世寺院"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.736039476565,35.6296057059]},"properties":{"name":"ホテルパシフィック東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735907154724,35.6308633803066]},"properties":{"name":"プリンスさくらタワー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735290191787,35.6320300609804]},"properties":{"name":"プリンスホテル高輪"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.736268546963,35.6329363642174]},"properties":{"name":"渚"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.738065177531,35.6377201870861]},"properties":{"name":"高輪の香散歩"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.669325732664,35.6437991561708]},"properties":{"name":"Carrot Tower 26F"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.677021959029,35.6435213097409]},"properties":{"name":"昭和女子大学光葉博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.670458777732,35.6451839207771]},"properties":{"name":"the b sangenjaya"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.659887942457,35.6534049964176]},"properties":{"name":"齋田記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.660146926754,35.6572499724803]},"properties":{"name":"ブルー&スノー ダイビング"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.660755804853,35.6577454986712]},"properties":{"name":"代田吹上館 下北沢文士町文化地図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.660415972181,35.658064972389]},"properties":{"name":"富士山の見える場所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.679218968719,35.6608490182419]},"properties":{"name":"日本民藝館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.688713532452,35.6401378715757]},"properties":{"name":"アクセサリーミュージアム"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.701573005576,35.6472360205503]},"properties":{"name":"旧朝倉家住宅"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.684614968968,35.6545090126082]},"properties":{"name":"東京都立芸術高等学校美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.684828947669,35.6598848606642]},"properties":{"name":"東京大学大学院総合文化研究科教養学部美術博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.691456178846,35.6540120794735]},"properties":{"name":"Hotel Fukudaya"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.699472295284,35.6550522924606]},"properties":{"name":"石島アトリエ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.699797485416,35.6558376804208]},"properties":{"name":"visionary arts"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.69181200153,35.6586809976085]},"properties":{"name":"渋谷区立松濤美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.692799789016,35.6614397688439]},"properties":{"name":"戸栗美術館 (Toguri Museum of Art)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.695376426746,35.6604951058853]},"properties":{"name":"Bunkamura"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.700718977235,35.65926818784]},"properties":{"name":"Shibuya Crossing"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702121337225,35.6601130189139]},"properties":{"name":"Tokyu Inn"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.662313753051,35.6659441896932]},"properties":{"name":"ダイダラボッチ伝説の地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.680013798083,35.6676979242738]},"properties":{"name":"古賀政男音楽博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.663153498178,35.673377190964]},"properties":{"name":"住居表示街区案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.670743633508,35.6756839720587]},"properties":{"name":"住居表示街区案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.676676466971,35.6761504867312]},"properties":{"name":"サクラホテル幡ヶ谷 (Sakura Hotel Hatagaya)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.675253176235,35.6770655568634]},"properties":{"name":"ノーブル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.687670498575,35.6698060038326]},"properties":{"name":"渋谷区エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.693571801171,35.6620432145386]},"properties":{"name":"観世能楽堂"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.694048267598,35.6651151115783]},"properties":{"name":"Hotel New Washington"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698337004428,35.6625919899912]},"properties":{"name":"Hotel UNIZO"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698986306715,35.6631863039322]},"properties":{"name":"渋谷東武ホテル (Tobu Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698380752382,35.6640148182077]},"properties":{"name":"Shibuya ku yakusyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.696814000695,35.665184955903]},"properties":{"name":"NHKスタジオパーク (NHK Studio Park)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.686756013616,35.6830029687186]},"properties":{"name":"東京オペラシティアートギャラリー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.688377203209,35.6827246019819]},"properties":{"name":"住居表示案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.690674554717,35.6814884668195]},"properties":{"name":"刀剣博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.694652833784,35.6774590192]},"properties":{"name":"Yoyogi Youth Hostel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698007951539,35.6798979024157]},"properties":{"name":"明治神宮宝物殿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702262732051,35.6413171926375]},"properties":{"name":"東京都目黒区立 川の資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.708386277848,35.6469993576113]},"properties":{"name":"Hotel Excellent"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.710130985793,35.6480830228504]},"properties":{"name":"ホテルシエスタ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713284162272,35.6415451849147]},"properties":{"name":"Tokyo Metro Museum of Photography"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71453300018,35.6418720238135]},"properties":{"name":"東京都写真美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.714540995186,35.6430879666649]},"properties":{"name":"恵比寿麦酒記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.721805940383,35.640020989792]},"properties":{"name":"松岡美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.70411290221,35.6555095848098]},"properties":{"name":"ホテルメッツ渋谷"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.711972981283,35.6555460075037]},"properties":{"name":"國學院大學考古学資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.711972981283,35.6555460075037]},"properties":{"name":"國學院大學神道資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713691009264,35.6531122927063]},"properties":{"name":"山種美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71315597268,35.6584869939702]},"properties":{"name":"島根イン 青山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.715529501324,35.6612724118462]},"properties":{"name":"Taro Okamoto Memorial Museum"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717978578283,35.6599125958669]},"properties":{"name":"伊勢半本店 紅ミュージアム"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.730547446413,35.6396851636035]},"properties":{"name":"シェラトン 都ホテル東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740439245164,35.6436554879325]},"properties":{"name":"三田坂めぐり散歩"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.745336590598,35.6456547746962]},"properties":{"name":"健康像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.745575003474,35.6454909616475]},"properties":{"name":"厚生労働省産業安全技術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.745222953715,35.6470900225215]},"properties":{"name":"港区立港郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.729055344726,35.6604300016061]},"properties":{"name":"Tokyo City View - Mori Tower"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.729260969094,35.6604319722521]},"properties":{"name":"森美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.739373034753,35.6608987950241]},"properties":{"name":"外務省外交資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.743714412858,35.657701121138]},"properties":{"name":"芝地区 ちいまっぷ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.704904856964,35.6693981999441]},"properties":{"name":"太田記念美術館 (Ota Memorial Museum of Art)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.703977076939,35.6708139740109]},"properties":{"name":"fACING tIME"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71191755523,35.6683535761138]},"properties":{"name":"一客"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713581414799,35.6639641675641]},"properties":{"name":"NHK青山荘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71702097419,35.6622099860387]},"properties":{"name":"根津美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717608202892,35.6633994909939]},"properties":{"name":"秋山庄太郎写真美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716337176596,35.6652427580565]},"properties":{"name":"ホテルフロラシオン青山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717115836284,35.6666416012007]},"properties":{"name":"ギャラリー鏤美"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717252649702,35.6668180695762]},"properties":{"name":"spaceyui"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.715604151324,35.6672971887357]},"properties":{"name":"Nadar"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716786334238,35.6687953206941]},"properties":{"name":"Tokyu Stay"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713370759865,35.6707002751447]},"properties":{"name":"Watari-um Museum of Contemporary Art"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713370939528,35.6706980128421]},"properties":{"name":"ワタリウム美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713370939528,35.6706980128421]},"properties":{"name":"ワタリウム美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713370939528,35.6706980128421]},"properties":{"name":"watari-um, watrium, the museum of watari contemporary art"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.714075937363,35.678331970347]},"properties":{"name":"秩父宮記念スポーツ博物館 (Prince Chichibu Memorial Sports Museum)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717686985142,35.6788480162203]},"properties":{"name":"明治神宮聖徳記念絵画館 (Meiji Memorial Picture Gallery)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.714975959446,35.6816819767581]},"properties":{"name":"佐藤美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719231009452,35.6825030023939]},"properties":{"name":"民音音楽博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.731407852792,35.6638117045539]},"properties":{"name":"IBIS"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733647262963,35.6636782170742]},"properties":{"name":"the b roppongi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733143667415,35.6713329145976]},"properties":{"name":"The b' Akasaka"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740377980061,35.662343986869]},"properties":{"name":"吉田苞竹記念会館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735998064231,35.6654550638397]},"properties":{"name":"アリエルネットワーク株式会社"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740854985477,35.6637539743481]},"properties":{"name":"無限"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74442039884,35.6620025616519]},"properties":{"name":"HOLLAND HILLS"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.744423453112,35.6627891949846]},"properties":{"name":"Switzerland Tourism"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.741067976031,35.6650330061028]},"properties":{"name":"泉屋博古館分館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.742960636503,35.666121900299]},"properties":{"name":"Hotel Okura South Wing"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.743101941497,35.6669330146481]},"properties":{"name":"大倉集古館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.744605002631,35.666040963567]},"properties":{"name":"菊池寛実記念智美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.737872578734,35.6715600914358]},"properties":{"name":"Avanshell Akasaka"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740683227595,35.6680126144754]},"properties":{"name":"ANA International インターコンチネンタルホテル東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740740001121,35.6682771663869]},"properties":{"name":"ANA Intercontinental Tokyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.744149107624,35.6678262234436]},"properties":{"name":"Hotel Okura North Wing"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74232921069,35.6721907537183]},"properties":{"name":"東横イン 溜池山王駅官邸南"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.729313969696,35.6740849728742]},"properties":{"name":"草月美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.732592011999,35.6752419737081]},"properties":{"name":"虎屋ギャラリー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735000215613,35.6797731981409]},"properties":{"name":"ホテルニューオータニ　ガーデンタワー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.734102978307,35.6810139568653]},"properties":{"name":"ニューオータニ美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740922089629,35.6741016110372]},"properties":{"name":"The Capitol Hotel Tokyu"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.73530097157,35.6781629704357]},"properties":{"name":"サントリー美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748196556968,35.5481009523808]},"properties":{"name":"エアポートイン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748057138436,35.5516765533378]},"properties":{"name":"ホテルJALシティ羽田東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748845499929,35.609211753315]},"properties":{"name":"ホテルサンルート品川シーサイド (Hotel Sunroute)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.750454831761,35.6103413572028]},"properties":{"name":"ハートンホテル東品川 (Hearton Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.780077946065,35.6170960073684]},"properties":{"name":"Telecom Center Observatory"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.749185871591,35.6251686039891]},"properties":{"name":"雲鷹丸 (Unyo Maru)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.747242995294,35.6268909601115]},"properties":{"name":"東京海洋大学海洋科学部附属水産資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771884053032,35.6197123572119]},"properties":{"name":"戦艦陸奥の主砲"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77307998017,35.619651016954]},"properties":{"name":"２、３番ハッチ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77229593059,35.6202169520724]},"properties":{"name":"船の科学館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77271499467,35.6201589712909]},"properties":{"name":"船の科学館別館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773352978185,35.6198609610942]},"properties":{"name":"救命艇"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.769111941897,35.6204959748677]},"properties":{"name":"首都圏4000万人の生活と産業を支える東京港"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.775245009836,35.6184079903038]},"properties":{"name":"the SOHO"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.776788944315,35.6193235029946]},"properties":{"name":"日本科学未来館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773944249305,35.6241605688756]},"properties":{"name":"自由の炎"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.775452071509,35.6244148972239]},"properties":{"name":"Gundam 1:1 statue"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.782249353769,35.6263469776393]},"properties":{"name":"大観覧車 (Daikanransha)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.78553664872,35.63086681196]},"properties":{"name":"水の科学館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.789591015092,35.6321389960625]},"properties":{"name":"ホテルサンルート有明"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.792974250115,35.6326538802456]},"properties":{"name":"ワシントンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.796475254272,35.631123674454]},"properties":{"name":"東京国際展示場（東京ビッグサイト）"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.747850705584,35.6427285733788]},"properties":{"name":"Sotetsu Fresa Inn Tokyo-Tamachi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.746566294391,35.6480655032868]},"properties":{"name":"カプセルイン田町"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74829600047,35.6505609804245]},"properties":{"name":"芝さつまの道"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.750167101375,35.6483799058714]},"properties":{"name":"APA HOTEL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.755589781588,35.6498691951953]},"properties":{"name":"チサンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748848733864,35.6510464747428]},"properties":{"name":"Celestine Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.751310207574,35.6558335199288]},"properties":{"name":"メルパルク"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.753080068347,35.6512283792364]},"properties":{"name":"hiromasu house"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.750385212326,35.6591703109366]},"properties":{"name":"有章院霊廟ニ天門"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.752623993677,35.6567729097456]},"properties":{"name":"芝大門ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75228146606,35.6568483086202]},"properties":{"name":"ホテル COMSOLOIL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.754476050299,35.6570767675054]},"properties":{"name":"カプセルイン浜松町"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75660020662,35.656260954614]},"properties":{"name":"Seaside Top"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.755196858483,35.6582130670374]},"properties":{"name":"ホテルマイステイズ 浜松町"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.754333667326,35.6596277986692]},"properties":{"name":"相鉄フレッサイン 浜松町大門,  Sotetsu Fresa Inn Hamamatsucho-Daimon"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.762218000912,35.6530574015169]},"properties":{"name":"Inter-Continental Tokyo Bay"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.761657991164,35.6543599621894]},"properties":{"name":"東京都公文書館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.762555947122,35.6545479904877]},"properties":{"name":"モヤイ像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.762756990082,35.6548249956564]},"properties":{"name":"モヤイ像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.76260230019,35.6576017095349]},"properties":{"name":"富士見山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.76301309977,35.6602455635222]},"properties":{"name":"可美真手命"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767014735034,35.6594059889743]},"properties":{"name":"Shogun Oagariba"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.769822060129,35.6615002012017]},"properties":{"name":"築地市場 (Tsukiji fish market)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748323938075,35.6637109868479]},"properties":{"name":"ＮＨＫ放送博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.749407755466,35.6652794682409]},"properties":{"name":"東急イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759627978285,35.6633462125279]},"properties":{"name":"Park Hotel Tokyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759939334362,35.6641123242554]},"properties":{"name":"Studio Ghibli Large Clock"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.760569233039,35.6643617085676]},"properties":{"name":"ロイヤルパークホテル ザ 汐留"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.761881941164,35.6658280025043]},"properties":{"name":"松下電工汐留ミュージアム"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.761630862042,35.665943824784]},"properties":{"name":"旧新橋停車場鉄道歴史展示室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.763467287977,35.6656529915828]},"properties":{"name":"Nakagin Capsule Tower"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759914181534,35.6690812528561]},"properties":{"name":"銀座日航ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.761897302355,35.6685768205414]},"properties":{"name":"Shiseido Gallery"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.762564481117,35.6696831812271]},"properties":{"name":"MMM Maison des Musees du Monde"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759520629608,35.6720877113439]},"properties":{"name":"帝国ホテルタワー (THE IMPERIAL TOWER)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75916336962,35.6722860604986]},"properties":{"name":"帝国ホテルプラザ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.762129067699,35.6701673186724]},"properties":{"name":"銀座エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.763567090806,35.6689440522528]},"properties":{"name":"Hotel Gracery Ginza Washington Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.762591250912,35.6697006230703]},"properties":{"name":"ggg"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.747011948603,35.6783980086434]},"properties":{"name":"憲政記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75778454549,35.6726181738185]},"properties":{"name":"帝国ホテル　本館 (The Imperial Hotel Main Building)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.766265001098,35.6824320057543]},"properties":{"name":"JR EAST Travel Service Center"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.76647197294,35.682440980667]},"properties":{"name":"東京ステーションギャラリー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.768130981607,35.6664619942361]},"properties":{"name":"中央区立築地社会教育会館・郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773639630592,35.6628788201871]},"properties":{"name":"かちどき 橋の資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773572885766,35.6633322725398]},"properties":{"name":"Fish Information Center"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770336884618,35.6719972937401]},"properties":{"name":"ギャラリー 舞"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.768938656878,35.6728411873927]},"properties":{"name":"ホテルモントレ銀座"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.769236448395,35.6737857772454]},"properties":{"name":"Moterey Lasoeur Ginza"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.76989033209,35.6751909653209]},"properties":{"name":"警察博物馆"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770511966267,35.6756269801684]},"properties":{"name":"独立行政法人国立美術館・東京国立近代美術館フィルムセンター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770496964402,35.6768729843636]},"properties":{"name":"ペンステーション"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.777310775663,35.6762641048612]},"properties":{"name":"アート☆アイガ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771543950865,35.6785710214238]},"properties":{"name":"ブリヂストン美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.772128484621,35.6787489957989]},"properties":{"name":"ブリヂストン美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771619229686,35.6795680814405]},"properties":{"name":"キリンの像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77863417374,35.6807402531619]},"properties":{"name":"其角住居跡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.776195157912,35.6816487765569]},"properties":{"name":"日本橋駅"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.775598946058,35.682552984574]},"properties":{"name":"凧の博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.78258496436,35.6785670080569]},"properties":{"name":"Hotel Villa Fontaine"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.782568615021,35.6831750229552]},"properties":{"name":"Sotetsu Fresa Inn Nihombashi-Ningyocho"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791474692411,35.6504300986517]},"properties":{"name":"ガスの科学館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.792792431101,35.6551501744111]},"properties":{"name":"キッザニア東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.826352052812,35.6509580771848]},"properties":{"name":"第五福竜丸展示館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.801967913245,35.6693406197355]},"properties":{"name":"デイナイスホテル東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.799418674132,35.6821978550326]},"properties":{"name":"コンフォートホテル東京清澄白河"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.80054821577,35.6810519002532]},"properties":{"name":"江東区深川江戸資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.808235997971,35.6797389755761]},"properties":{"name":"東京都現代美術館 (Museum Contemporary Tokyo of Art)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.820076062911,35.6695133602368]},"properties":{"name":"R&B Hotel 東陽町"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.822263999617,35.681743999075]},"properties":{"name":"東京大空襲・戦災資料センター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.862219985476,35.6399606871934]},"properties":{"name":"東京都葛西臨海水族園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.856209896899,35.6469785528469]},"properties":{"name":"自転車道路案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.858158702077,35.6532761631207]},"properties":{"name":"自転車道路案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.846525159821,35.6834188023048]},"properties":{"name":"荒川ロックゲート (Arakawa lock gate)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.847410629197,35.6829812977389]},"properties":{"name":"荒川ロックゲート (Arakawa lock gate)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.861482468628,35.6629583734177]},"properties":{"name":"ルミエール 西葛西"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.87334094903,35.6635750177434]},"properties":{"name":"地下鉄博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.574391683607,35.7009033759335]},"properties":{"name":"公園案内所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.579640809306,35.7022565846852]},"properties":{"name":"小田急バス営業所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.579302952928,35.70481696788]},"properties":{"name":"武蔵野市立吉祥寺美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.584542646317,35.7019421754278]},"properties":{"name":"住居表示街区案内図"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.600273045257,35.7035050908796]},"properties":{"name":"花の童子"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.573211476986,35.71044319017]},"properties":{"name":"成蹊学園史料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.606999989431,35.7164045202364]},"properties":{"name":"今川宝珠殿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.617616279459,35.6920972558447]},"properties":{"name":"すまい案内板"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.631422756555,35.6923488144045]},"properties":{"name":"三年坂"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.616655890588,35.6980421574372]},"properties":{"name":"木岡英三郎梅子記念資料室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.633486007099,35.7000807159165]},"properties":{"name":"ルートイン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.645478066985,35.6859595064656]},"properties":{"name":"杉並区立郷土博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.614859709178,35.7079986030276]},"properties":{"name":"色彩物語"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.650038634019,35.7055947175056]},"properties":{"name":"ホテルメッツ高円寺"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.577641339147,35.7366828026538]},"properties":{"name":"ライオンズロック"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.599401948926,35.7364100192104]},"properties":{"name":"練馬区郷土資料室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.605083972761,35.7284779635005]},"properties":{"name":"ちひろ美術館・東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.636301506863,35.7370258040854]},"properties":{"name":"練馬区立美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.632410005052,35.7595509957351]},"properties":{"name":"光が丘美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.690960668135,35.6851358167201]},"properties":{"name":"パーク ハイアット 東京 (Parc Hyatt Tokyo)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.688398942439,35.6886159920535]},"properties":{"name":"Shinjuku New City Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.686736610006,35.6910401613337]},"properties":{"name":"東急ステイ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.689773993645,35.6943819737818]},"properties":{"name":"Ascent Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.692554009954,35.6857870204517]},"properties":{"name":"京王プレッソイン新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.695010003941,35.6863219885485]},"properties":{"name":"文化学園服飾博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.692855933721,35.6868319998014]},"properties":{"name":"Shinjuku Washington Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.691755407667,35.6890717058967]},"properties":{"name":"Tokyo Metropolitan Government Office - South Observatory Deck"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.694763236733,35.6865734193963]},"properties":{"name":"地球儀"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.695582051114,35.6876324701156]},"properties":{"name":"新宿区エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.696474347686,35.687956493779]},"properties":{"name":"新宿区エリアマップ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698387938904,35.687609997811]},"properties":{"name":"ブラッサム新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698881113995,35.6870906523308]},"properties":{"name":"Sunroute Plaza Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.700366927475,35.6864420129493]},"properties":{"name":"Century Southern Tower Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.691605748341,35.6898976167617]},"properties":{"name":"Tokyo Metropolitan Government Office - North Observatory Deck"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.691163238232,35.6907122103997]},"properties":{"name":"ハイアットリージェンシー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.692511789136,35.6912618101669]},"properties":{"name":"平和祈念展示資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.691345865729,35.6926300658571]},"properties":{"name":"ヒルトンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.693740953939,35.6944199837674]},"properties":{"name":"ホテルローズガーデン新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.696161015315,35.6927619728116]},"properties":{"name":"損保ジャパン東郷青児美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.69428641098,35.6941393952314]},"properties":{"name":"西鉄イン新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698057269048,35.6938283099594]},"properties":{"name":"Shinjuku Ibis Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.69895073343,35.6939157116195]},"properties":{"name":"新宿区総合案内板"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.695662989321,35.6973299919948]},"properties":{"name":"Asuka Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.697341940587,35.6949810119674]},"properties":{"name":"Nishi Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.70012096875,35.6947460226127]},"properties":{"name":"Shinjuku Prince Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.701065008282,35.6953050057791]},"properties":{"name":"Shinjuku Kent Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.700469874407,35.6961234837202]},"properties":{"name":"グリーンプラザ新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702078936744,35.6972949744765]},"properties":{"name":"Vintage Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702089986022,35.6994035123371]},"properties":{"name":"GREEN HOTEL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698628507737,35.7017199726851]},"properties":{"name":"Tokyo Plaza Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.664991990239,35.7243159726033]},"properties":{"name":"山崎記念中野区立歴史民俗資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.676270428462,35.7183114011083]},"properties":{"name":"三井文庫"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.68426597348,35.715846851978]},"properties":{"name":"林芙美子記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.69364106128,35.7208798745372]},"properties":{"name":"佐伯祐三アトリエ記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702978509669,35.686045019698]},"properties":{"name":"Shinjuku Park Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.706397048483,35.6906507057696]},"properties":{"name":"AIM"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.704316190959,35.6944088215278]},"properties":{"name":"ベストウェスタン新宿 アスティナホテル東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707068000168,35.6941539864432]},"properties":{"name":"Shinjuku Sunlite Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.710741930017,35.6910999876101]},"properties":{"name":"新宿美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.7114180021,35.6928989865521]},"properties":{"name":"Listel Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.710482676226,35.6933918838765]},"properties":{"name":"東京ビジネスホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716288937065,35.683752985297]},"properties":{"name":"野口英世記念会館展示室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71788730945,35.6843445879129]},"properties":{"name":"The Artcomplex Center of Tokyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718398989836,35.6879999789531]},"properties":{"name":"Jal City Yotsuya Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719884893148,35.6881540009146]},"properties":{"name":"東京消防庁消防防災資料センター消防博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719519997479,35.6908679781416]},"properties":{"name":"釣り文化資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.706305599987,35.6947258139335]},"properties":{"name":"新宿眼科画廊"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.703758965988,35.6984309932908]},"properties":{"name":"高麗博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707926250591,35.6985648603552]},"properties":{"name":"ホテルサンルート東新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.720289943509,35.6971879520908]},"properties":{"name":"東京女子医科大学史料室・吉岡彌生記念室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.727590192497,35.6867111733959]},"properties":{"name":"Mitsui Garden Hotel, Yotsuya"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.725629978716,35.690012966353]},"properties":{"name":"新宿歴史博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.724315204466,35.6924552596235]},"properties":{"name":"ACE INN Shinjuku"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.742847179283,35.6860581531215]},"properties":{"name":"日本カメラ博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74198596442,35.6866738164025]},"properties":{"name":"ホテルモントレ半蔵門"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.739748979699,35.6894740101902]},"properties":{"name":"千代田区立四番町歴史民俗資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.745989935304,35.6907359950957]},"properties":{"name":"山種美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.729273006519,35.6949509543798]},"properties":{"name":"国立印刷局博物館（お札と切手の博物館）"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.73684499588,35.6997579816737]},"properties":{"name":"宮城道雄記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740484789749,35.6999399210752]},"properties":{"name":"The AGNES"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.743172908405,35.6953398782613]},"properties":{"name":"靖國神社遊就館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.704880243126,35.7125874852129]},"properties":{"name":"ホテルサンルート高田馬場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.704764809612,35.7132106022452]},"properties":{"name":"平和の女神像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.720359832438,35.7085539920316]},"properties":{"name":"早稲田大学會津八一記念博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719546857106,35.7099830760764]},"properties":{"name":"早稲田大学坪内博士記念演劇博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.723351940987,35.7131769775362]},"properties":{"name":"永青文庫"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719879952414,35.7163159762561]},"properties":{"name":"日本女子大学成瀬記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.705936931394,35.718231976]},"properties":{"name":"切手の博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.709019949449,35.7201199966107]},"properties":{"name":"学習院大学史料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.725032958378,35.7140179556962]},"properties":{"name":"講談社野間記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.741606965201,35.7092239695457]},"properties":{"name":"印刷博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74100796857,35.7213300070786]},"properties":{"name":"東京大学総合研究博物館・小石川分館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.662573006842,35.7330270185234]},"properties":{"name":"唐澤博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.675285964742,35.7372959604228]},"properties":{"name":"日本大学芸術学部芸術資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.690869938291,35.7337420005772]},"properties":{"name":"熊谷守一美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.674462748616,35.7637637731998]},"properties":{"name":"HOTEL ATAMI"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.679623839418,35.763445087333]},"properties":{"name":"板橋区立教育科学館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.69001995237,35.7596149985565]},"properties":{"name":"日本書道美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.706720980974,35.7276749862347]},"properties":{"name":"豊島区立郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.709301840786,35.7288374082434]},"properties":{"name":"Japan Traditional Crafts Centre"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707564948184,35.7334449246726]},"properties":{"name":"貴美旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.708804084287,35.7336240891394]},"properties":{"name":"サクラホテル池袋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.715602534357,35.7278018762875]},"properties":{"name":"京王プレッソイン池袋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718123746033,35.729436552134]},"properties":{"name":"Sunshine 60 Tennbodai (Viewpoint)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.720012992907,35.7288560039407]},"properties":{"name":"サンシャイン国際水族館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.720968351212,35.7287321783923]},"properties":{"name":"古代オリエント博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719314103616,35.7446451736394]},"properties":{"name":"Hotel APA"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719665883881,35.7463812108145]},"properties":{"name":"りんりんちゃん"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.727270661751,35.7326143604829]},"properties":{"name":"東横INN山手線大塚駅北口2"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.736817687096,35.7347342143993]},"properties":{"name":"すがもんのおしり"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.745906930972,35.7430770134407]},"properties":{"name":"大谷美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.739405014777,35.7490069579829]},"properties":{"name":"渋沢史料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.739235682346,35.7492959562114]},"properties":{"name":"渋沢資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719739006746,35.7567279681358]},"properties":{"name":"東京家政大学博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.738805928314,35.7495990241144]},"properties":{"name":"北区飛鳥山博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.738670552201,35.7498525154336]},"properties":{"name":"紙の博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.739010295041,35.7496262177861]},"properties":{"name":"北区飛鳥山博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.738572007014,35.7499790056232]},"properties":{"name":"紙の博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.736550977288,35.7537739823368]},"properties":{"name":"London"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.737133894076,35.753883990585]},"properties":{"name":"王子駅前バス案内所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.644438985696,35.7842499996115]},"properties":{"name":"板橋区立美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.64435463389,35.78430567498]},"properties":{"name":"区立美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.644304777392,35.7844998826029]},"properties":{"name":"水辺"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.643151879557,35.7854720795589]},"properties":{"name":"郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.643209012409,35.7854959817104]},"properties":{"name":"板橋区立郷土資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.660655283373,35.7783669921737]},"properties":{"name":"郷土芸能伝承館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.664077056122,35.7919123563373]},"properties":{"name":"熱帯環境植物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.720911757349,35.7769311183801]},"properties":{"name":"ホテル赤羽"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.72227423214,35.7768701904646]},"properties":{"name":"ホテルミッドイン赤羽駅前"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717225161254,35.7772289794192]},"properties":{"name":"パレス桃山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.722530611322,35.777572753545]},"properties":{"name":"ダイワロイネットホテル東京赤羽"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.72377998822,35.7794079881028]},"properties":{"name":"silent language"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719755535747,35.7802110994227]},"properties":{"name":"サンライズイン赤羽"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71915213737,35.7815072106974]},"properties":{"name":"ピア"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719842672329,35.7817893134212]},"properties":{"name":"スーパーホテル 赤羽"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.720016047179,35.7833481115079]},"properties":{"name":"東横イン 赤羽駅東口一番街"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.724809008378,35.7795339940362]},"properties":{"name":"⚪︎△◻︎大拙考"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.726223944782,35.7795269977606]},"properties":{"name":"プレゼント"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.728723147734,35.7871087044828]},"properties":{"name":"岩淵リバーステーション"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.730122004294,35.7856179700181]},"properties":{"name":"荒川知水資料館 （国土交通省荒川下流河川事務所・東京都北区）"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.730300499541,35.786359879344]},"properties":{"name":"旧岩淵水門"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.754097949396,35.6838080013148]},"properties":{"name":"宮内庁 三の丸尚蔵館 (Sannomaru-Shōzōkan)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.750383954685,35.6897069721949]},"properties":{"name":"独立行政法人国立美術館・東京国立近代美術館工芸館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.746489937591,35.6932629691955]},"properties":{"name":"千秋文庫博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75309435156,35.6916417781621]},"properties":{"name":"自転車文化センター (Bicycle culture center)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.753100010946,35.6916530137473]},"properties":{"name":"科学技術館 (Science Museum)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.754931945305,35.6904399991565]},"properties":{"name":"夏の家"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.754617984114,35.6905369622066]},"properties":{"name":"独立行政法人国立美術館・東京国立近代美術館 (Independent Administrative Institution - The National Museum of Modern Art,Tokyo)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764417975043,35.6917760214144]},"properties":{"name":"天理ギャラリー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.750906594517,35.6951108722887]},"properties":{"name":"昭和館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.756467435621,35.6949708711807]},"properties":{"name":"サクラホテル神保町 (Sakura Hotel Jimbocho)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.753582945243,35.7036501103727]},"properties":{"name":"東京ドームホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.752042244699,35.7049751152952]},"properties":{"name":"野球殿堂博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.752070092473,35.7055449686008]},"properties":{"name":"東京ドーム"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.754406251201,35.7036326759506]},"properties":{"name":"東京ドームシティアトラクションズ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.755759653008,35.7054279637229]},"properties":{"name":"Hotel Wing International Korakuen"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759177652833,35.6958160539143]},"properties":{"name":"本と街の案内所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.762151705244,35.6986986542429]},"properties":{"name":"明治大学博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.766842977152,35.6998699612662]},"properties":{"name":"史跡 湯島聖堂"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759765959512,35.7025129987417]},"properties":{"name":"センチュリーミュージアム"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.760498355963,35.7033138952596]},"properties":{"name":"東京都水道歴史館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.765980953805,35.7013019730701]},"properties":{"name":"御茶ノ水 イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764047509819,35.7042957648836]},"properties":{"name":"Japan Football Museum"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767547076672,35.7034430125351]},"properties":{"name":"湯島御苑"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767353399897,35.7046359149651]},"properties":{"name":"Mari"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767820703507,35.7047540881471]},"properties":{"name":"Linden"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767821511991,35.7050077222186]},"properties":{"name":"江戸屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771602880348,35.6854394935642]},"properties":{"name":"貨幣博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773055007005,35.6869380146067]},"properties":{"name":"三井記念美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.772880015188,35.6871690140318]},"properties":{"name":"マンダリンオリエンタル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.774411732578,35.6844222956266]},"properties":{"name":"日本国道路元標"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.774852086731,35.684339553326]},"properties":{"name":"日本橋魚河岸発祥の地"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77735757789,35.6862936788155]},"properties":{"name":"Hotel Villa Fontaine"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.778803236676,35.6876264872299]},"properties":{"name":"スーパーホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770564966869,35.6894907181048]},"properties":{"name":"神田ステーションホテル (Kanda Station Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.779674961828,35.6852915223872]},"properties":{"name":"西鉄イン日本橋 (Nishitetsu Inn Nihombashi)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.779224366882,35.6855877563224]},"properties":{"name":"Hotel Sumisho"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.780444009543,35.6855250073541]},"properties":{"name":"Hotel Saibo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.779836928074,35.6888747117595]},"properties":{"name":"Horidome Villa"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.783017682832,35.6940109194957]},"properties":{"name":"Comfort Hotel Tokyo Higashi Nihombashi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.78787172947,35.6911908942807]},"properties":{"name":"Button Museum"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.78533973801,35.6939443834287]},"properties":{"name":"R&B"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770424829684,35.6953449121539]},"properties":{"name":"千代田区 総合防災案内板"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770467050503,35.6954450792554]},"properties":{"name":"華ごろも"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773826929329,35.6972456581121]},"properties":{"name":"秋葉原ワシントンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.775252106527,35.6970866199245]},"properties":{"name":"和泉橋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77367188011,35.6978575874097]},"properties":{"name":"レム秋葉原 (remm AKIHABARA)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770800774631,35.7041775910222]},"properties":{"name":"Maki Fine Arts"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.768882871499,35.7047149159451]},"properties":{"name":"Tristan"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770584639974,35.7041972866779]},"properties":{"name":"アキバタマビ21"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770921957363,35.7041794146942]},"properties":{"name":"イムラアートギャラリー東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771029845028,35.7041133247932]},"properties":{"name":"3331ギャラリー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771030114523,35.7041686915021]},"properties":{"name":"Gallery Out of Palce Tokyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771956726738,35.7037275804364]},"properties":{"name":"神田栄町"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770924113319,35.7042205567242]},"properties":{"name":"island MEDIUM"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771040984138,35.7042277784613]},"properties":{"name":"A/A gallery"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771047541839,35.7042600209564]},"properties":{"name":"nap gallery"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.78923824668,35.6992484907799]},"properties":{"name":"Tokyo Sumidagawa Youth Hostel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.752218314495,35.7082636059074]},"properties":{"name":"Observation deck"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.755054385679,35.705573563283]},"properties":{"name":"Grand Hotel Suidobashi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.756581970819,35.7079840143491]},"properties":{"name":"文京ふるさと歴史館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759790573351,35.7079549099276]},"properties":{"name":"ホテル機山館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.760016679308,35.7106340039865]},"properties":{"name":"東大赤門"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75828355963,35.7131664743703]},"properties":{"name":"フォレスト本郷"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.763288972394,35.7150759855178]},"properties":{"name":"弥生美術館・竹久夢二美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.758909595552,35.7178541039457]},"properties":{"name":"旅館　更新館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764707861385,35.7210239143099]},"properties":{"name":"Gallery TEN"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764914294237,35.7210856872364]},"properties":{"name":"旅館　澤の屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.766181996766,35.7212890197424]},"properties":{"name":"大名時計博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.76062744387,35.7249703569061]},"properties":{"name":"森鴎外記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764766790867,35.7231430556921]},"properties":{"name":"猫町ギャラリー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764972774562,35.7257188848612]},"properties":{"name":"プフレーゲライヒト"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764676510181,35.7266436688934]},"properties":{"name":"アネックス勝太郎旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770347754233,35.70664126095]},"properties":{"name":"Ueno First City Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.769697373967,35.708696157573]},"properties":{"name":"PRINCESS Ⅰ世"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.772777247919,35.708770705026]},"properties":{"name":"サウナ＆カプセルホテル ダンディ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.772760359592,35.7102927124383]},"properties":{"name":"Shitamachi Museum"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.776168298285,35.7087313889123]},"properties":{"name":"Hotel Sardonyx Ueno"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.775171437814,35.7097641051833]},"properties":{"name":"オリエンタル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.775680962243,35.7100420128429]},"properties":{"name":"きぬや本店"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.777847429214,35.7109892986791]},"properties":{"name":"Touganeya Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.768182005915,35.7121790247232]},"properties":{"name":"横山大観記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771190014644,35.7123929561658]},"properties":{"name":"台東区立下町風俗資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773124895934,35.7111036695344]},"properties":{"name":"Kinuya Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.774708985106,35.7128449601245]},"properties":{"name":"上野の森美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.778214031682,35.7118295705247]},"properties":{"name":"三井ガーデンホテル上野"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.779209095522,35.7101984722407]},"properties":{"name":""}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.782026751242,35.7125281126932]},"properties":{"name":"Chisun Hotel Ueno"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.782061156717,35.7128790955461]},"properties":{"name":"Hotel Mystays Ueno-Iriyaguchi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.784619558647,35.7114007558173]},"properties":{"name":"Oak Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771486997676,35.7172890064741]},"properties":{"name":"東京都恩賜上野動物園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.772820007727,35.7174009614413]},"properties":{"name":"東京都美術館 (Tokyo Metropolitan Art Museum)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.771835993164,35.7199239543688]},"properties":{"name":"東京藝術大学大学美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773763777764,35.7174181011129]},"properties":{"name":"Metropolitan Art Museum"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.776402938237,35.718816977628]},"properties":{"name":"本館 (Honkan)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.768562981427,35.7268469872141]},"properties":{"name":"台東区立朝倉彫塑館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.776452974399,35.7247630227533]},"properties":{"name":"台東区立書道博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.789001181276,35.7188509646246]},"properties":{"name":"桜旅館 (Sakura Ryokan)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.794091933991,35.6861290006076]},"properties":{"name":"江東区芭蕉記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.802144971187,35.6851509932933]},"properties":{"name":"江東区森下文化センター「田河水泡・のらくろ館」"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.809418989369,35.6941380090661]},"properties":{"name":"ブレーキ博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791999937358,35.6953849644186]},"properties":{"name":"両国観光案内所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791979994758,35.6954809730441]},"properties":{"name":"ザ・ホテル ベルグランデ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791509996202,35.6956139696042]},"properties":{"name":"両国リバーホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.793237186999,35.6972706081109]},"properties":{"name":"相撲博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.797074430566,35.698231323034]},"properties":{"name":"第一ホテル 両国"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.796902942179,35.6997949677845]},"properties":{"name":"東京都復興記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.80039954459,35.7055626943871]},"properties":{"name":"カオサン東京アネックス (Khaosan Tokyo Annex)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.7945162083,35.706808522806]},"properties":{"name":"Chisun Inn Asakusa"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.795314990251,35.7080560094515]},"properties":{"name":"エース世界のバッグ＆ラゲージ館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791002178572,35.7089394942069]},"properties":{"name":"Agora Place Asakusa"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.797208728701,35.7094241228678]},"properties":{"name":"カオサン東京ゲストハウス オリジナル店"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.799948500486,35.7094287911609]},"properties":{"name":"Visit Sumida office AZUMABASHI"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791347940125,35.7118829624989]},"properties":{"name":"Khaosan Laboratory"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791778951798,35.7118149825474]},"properties":{"name":"太皷館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.795087536821,35.7160033729163]},"properties":{"name":"サクラホステル浅草 (Sakura Hostel Asakusa)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.802150810237,35.7088735541373]},"properties":{"name":"小さなガラスの本の博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.807797979439,35.7092947964529]},"properties":{"name":"Visit Sumida office NARIHIRABASHI"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.80933203245,35.710146465025]},"properties":{"name":"すみだ水族館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.805916368245,35.7139151132231]},"properties":{"name":"すみだ郷土文化資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.790047179593,35.7171445952745]},"properties":{"name":"台東区立一葉記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.792482961486,35.7184520176349]},"properties":{"name":"Toyoko Inn"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.795622842899,35.7166250045306]},"properties":{"name":"Wasou"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.794659579419,35.7227762922682]},"properties":{"name":"Soho　Asakusa 浅草 Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.799811148079,35.7265507607075]},"properties":{"name":"Kangaroo Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.800761385987,35.7266605148715]},"properties":{"name":"JUYOH HOTEL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.801680182859,35.7181530613511]},"properties":{"name":"Sky Court"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.808233931846,35.72404095894]},"properties":{"name":"皮革産業資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.813255963442,35.7267260026661]},"properties":{"name":"セイコーミュージアム (SEIKO Museum)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.818984969167,35.7234640178837]},"properties":{"name":"東武博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.819316178012,35.7249153692868]},"properties":{"name":"東武博物館 (Tobu Museum)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748655057089,35.7313701751629]},"properties":{"name":"東洋文庫ミュージアム"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.746648130913,35.7325342204247]},"properties":{"name":"Tamano-no-iso"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.747075189999,35.7328571136341]},"properties":{"name":"Deshio-no-minato"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.746099260274,35.7338712873147]},"properties":{"name":"富士見山　（Fuji-viewing Peak)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.747181191202,35.7362264130413]},"properties":{"name":"HOTEL METS"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764823474562,35.727865612939]},"properties":{"name":"Yanesen tourist information and culture. centre"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759258950366,35.7384720230398]},"properties":{"name":"田端文士村記念館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.761836486411,35.7388950046714]},"properties":{"name":"Hotel METS Tabata"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77129269208,35.7284156129084]},"properties":{"name":"hotel sunny"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.795528609625,35.7283103825]},"properties":{"name":"行燈旅館 (Andon Ryokan)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.795417937182,35.737460970442]},"properties":{"name":"荒川区立荒川ふるさと文化館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.796088888868,35.7406948207124]},"properties":{"name":"石洞美術館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.801273964688,35.7528234872421]},"properties":{"name":"舞鶴"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.832037041087,35.7647699724383]},"properties":{"name":"青面金剛像"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.846333010182,35.6875299584146]},"properties":{"name":"江東区中川船番所資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.846958956272,35.6874680135578]},"properties":{"name":"旧中川・川の駅"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.866291958827,35.7060639750754]},"properties":{"name":"江戸川区郷土資料室"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.859210808937,35.7182697558135]},"properties":{"name":"新小岩東北広場案内板"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.843450945256,35.7528699989245]},"properties":{"name":"葛飾区郷土と天文の博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.875876354088,35.7569562867489]},"properties":{"name":"柴又観光案内所"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.875907345966,35.7574819565184]},"properties":{"name":"柴又のおもちゃ博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773578275658,35.7798319182016]},"properties":{"name":"Celio"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770519601947,35.7962854658823]},"properties":{"name":"舎人公園 (Toneri-koen)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.841442491943,35.7844722636116]},"properties":{"name":"足立区立郷土博物館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.863782964239,35.7879949557149]},"properties":{"name":"葛飾区教育資料館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[142.191840505225,27.093065077936]},"properties":{"name":"小笠原ビジターセンター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[142.192280769546,27.0946017702897]},"properties":{"name":"小笠原村商工観光会館 (B-しっぷ)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[142.203777947541,27.0939570258493]},"properties":{"name":"小笠原海洋センター"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.785766976759,33.1022360143431]},"properties":{"name":"八丈島歴史民俗資料館"}}
+]
+}

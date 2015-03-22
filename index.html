@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TokyoMap</title>
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
     <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/style.css">
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 </head>
 
 <body>
@@ -15,42 +16,24 @@
     <div id="header">TOKYO MAP</div>
     <div id="map"></div>
     <script>
-
-    //地図のデフォルト値
-    var map = L.map('map').setView([35.65863174　, 139.74542422], 14);
- 
-    var geojsonFeature = [
-      {
-        "type": "Feature",
-        "properties": {
-          "popupContent": "<h3>東京タワー</h3>"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [ 139.74542422, 35.65863174]
-        }
-      }
-    ]
-
-    //OSMレイヤー追加
-    L.tileLayer(
-    'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-    ,{
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>',
-        maxZoom: 18
-    }
-    ).addTo(map);
-
-    L.geoJson(
-    geojsonFeature,
-    {
-        onEachFeature: function(feature, layer){
-            if (feature.properties && feature.properties.popupContent) {
-                layer.bindPopup(feature.properties.popupContent);
+        //地図のデフォルト値
+        var map = L.map('map').setView([35.65863174　, 139.74542422], 14);
+        //OSMレイヤー追加
+        L.tileLayer(
+            'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+            ,{
+                attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>',
+                maxZoom: 18
             }
-        }
-    }
-    ).addTo(map);
+        ).addTo(map);
 
+        $.getJSON("./data/map.geojson", function(data) {
+            var geojson = L.geoJson(data, {
+                onEachFeature: function (feature, layer) {
+                    layer.bindPopup(feature.properties.name);
+                }
+            });
+            geojson.addTo(map);
+        });
     </script>
 </body>
