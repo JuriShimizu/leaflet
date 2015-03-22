@@ -1,0 +1,12 @@
+@charset "UTF-8";
+#map{
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+}
+
+#header {
+	font-size: 50px;
+	font-family: 'Josefin Slab', serif;
+
+} 
