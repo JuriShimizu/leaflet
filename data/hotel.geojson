@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {"type":"Feature","geometry":{"type":"Point","coordinates":[139.544465837052,34.11966632223]},"properties":{"name":"snapper"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.362692368131,34.7459591169989]},"properties":{"name":"ホテル 椿園"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.353630972029,34.750609969106]},"properties":{"name":"ホテル奥源"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.358466333709,34.7499856142569]},"properties":{"name":"ホテル白岩"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.408021986189,34.6855740098983]},"properties":{"name":"民宿なぎ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.439627951819,34.6866479600337]},"properties":{"name":"波浮屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.439527969328,34.6874779922849]},"properties":{"name":"素泊まり民宿高桝"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.47993670609,35.5030048248705]},"properties":{"name":"Hotel Seeds"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.480164608678,35.5032209983537]},"properties":{"name":"Hotel American"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.481360895142,35.5042340661297]},"properties":{"name":"La Foret"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.481688061568,35.5045659997276]},"properties":{"name":"APEX Resort"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.338178960995,35.6523000160407]},"properties":{"name":"サンホテル八王子"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.335872087345,35.6567395532024]},"properties":{"name":"マロウドイン八王子"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.337223063701,35.6563811702071]},"properties":{"name":"千代田ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.340634595656,35.6564303658499]},"properties":{"name":"京王プラザホテル 八王子 (KEIO PLAZA HOTEL)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.343749953061,35.6586150159875]},"properties":{"name":"八王子プラザホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.450434505024,35.540435771491]},"properties":{"name":"ホテル　ザ・エルシィ町田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.442277981907,35.5446849724117]},"properties":{"name":"ホテルリソル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.443914981849,35.5454026648039]},"properties":{"name":"町田ヴィラ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.446727696835,35.5444895227342]},"properties":{"name":"新宿屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.444771435641,35.5467691058792]},"properties":{"name":"東横イン 町田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.490309462844,35.5826308961409]},"properties":{"name":"Pippi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.41288860924,35.6233099540609]},"properties":{"name":"多摩 山晴"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.424824973578,35.6186935916626]},"properties":{"name":"桜美林大学多摩アカデミーヒルズ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.424588357332,35.6233112684353]},"properties":{"name":"京王プラザホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.45076634269,35.6288805901134]},"properties":{"name":"多摩永山ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.413251977773,35.6600939692577]},"properties":{"name":"シティーホテル高幡"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.411978076868,35.6622972763654]},"properties":{"name":"富士旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.446281683297,35.6477405146849]},"properties":{"name":"HOTEL桜ヶ丘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.443276459345,35.6725025071742]},"properties":{"name":"Water Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.442710430885,35.6727704740592]},"properties":{"name":"La Festae"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.44445927108,35.6735940725297]},"properties":{"name":"シェレナ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.445167053692,35.675389087844]},"properties":{"name":"Hotel Vanilla"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.475773463906,35.6718379862841]},"properties":{"name":"ホテルリブマックス府中"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.478248771671,35.6721647012325]},"properties":{"name":"府中アーバンホテル別館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.495608085716,35.6691956838173]},"properties":{"name":"マロウドイン東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.483690675831,35.6746960582176]},"properties":{"name":"三栄旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.522058080942,35.6643185024446]},"properties":{"name":"調布アーバンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.544504015452,35.6510410000827]},"properties":{"name":"LIVE MAX"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.544565999206,35.6513110098728]},"properties":{"name":"NOBES HOTEL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.358387012469,35.7116790224705]},"properties":{"name":"ビジネス旅館みかど"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.36485048077,35.718439108348]},"properties":{"name":"フォレストイン昭和館 (Forest Inn Showakan)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.328327945758,35.7419640150893]},"properties":{"name":"東横イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.316625862046,35.7591244061384]},"properties":{"name":"プラザイン羽村 (PLAZA INN HAMURA)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.315388702237,35.7601586559819]},"properties":{"name":"ホテルリブマックス羽村駅前"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.371046251116,35.7566794175417]},"properties":{"name":"ビジネスホテル純和 本館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.371809729276,35.7566340744675]},"properties":{"name":"ビジネスホテル純和 別館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.255589650404,35.7842013929424]},"properties":{"name":"かんぽの宿 青梅"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.26360801263,35.7893710229798]},"properties":{"name":"橋本屋旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.283482070481,35.7856995869414]},"properties":{"name":"コンフェスタイン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.301473079834,35.7774807064741]},"properties":{"name":"ホテル サーティマイルズ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.4119399883,35.6965960070034]},"properties":{"name":"立川ワシントンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.416256662735,35.6970866928779]},"properties":{"name":"立川アーバンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.413234999614,35.6973380168406]},"properties":{"name":"HOTEL METS"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.415567654912,35.6999801169335]},"properties":{"name":"立川グランドホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.416580954553,35.6971339666475]},"properties":{"name":"立川アーバンホテル アネックス別館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.419294046374,35.6963594903727]},"properties":{"name":"ザ・クレストホテル立川"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.417587247334,35.6988395242277]},"properties":{"name":"カプセルホテルファーストイン立川"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.545240094995,35.7018553661568]},"properties":{"name":"HOTEL METS MUSASHISAKAI"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.539391882833,35.7294860673537]},"properties":{"name":"田無第一ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.717121944828,35.5489651570449]},"properties":{"name":"カナーンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.711475853605,35.5606820898206]},"properties":{"name":"七福"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713780840792,35.5598059534679]},"properties":{"name":"ビスタホテル蒲田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718238011737,35.5617429554253]},"properties":{"name":"カプセルイン蒲田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718368986106,35.5621760084653]},"properties":{"name":"三井ガーデンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718337006082,35.5626132975843]},"properties":{"name":"東横イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71997732979,35.5620042782957]},"properties":{"name":"京急EXイン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719011012039,35.5627050081513]},"properties":{"name":"ワシントンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716813553191,35.5635485212177]},"properties":{"name":"アーヴェストホテル蒲田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718375184481,35.5638832786421]},"properties":{"name":"ホテル オーク"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71919795145,35.5633309756411]},"properties":{"name":"ビジネスホテル新力"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718656985986,35.5637328900835]},"properties":{"name":"オークイン3"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718915970282,35.5636389884352]},"properties":{"name":"ビジネスホテル ソーシャル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74376157441,35.5523094770042]},"properties":{"name":"羽田イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707147051913,35.5890080883631]},"properties":{"name":"西馬込第一ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.734189036911,35.5874880785793]},"properties":{"name":"サンルートパティオ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.728738329262,35.5907318075108]},"properties":{"name":"ホテルモントレ大森"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.730285677339,35.5911400128994]},"properties":{"name":"大森パークホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.732457085044,35.5904440609084]},"properties":{"name":"アートホテルズ大森"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735144664711,35.5874508212847]},"properties":{"name":"京急EXイン大森海岸駅前"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.641750597545,35.6683030741822]},"properties":{"name":"よろづや旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71177885535,35.5971992220945]},"properties":{"name":"ビジネスホテル 東京イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.711878029357,35.597784672745]},"properties":{"name":"ホテル ステイシード"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713209871598,35.6015240783892]},"properties":{"name":"チサンホテル品川ウエスト"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.731684713562,35.6050292244827]},"properties":{"name":"ホテルルートイン (HOTEL ROUTE-INN)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.731690103454,35.6061936527725]},"properties":{"name":"東横イン品川大井町 (TOYOKO INN)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.732907769822,35.6044926892548]},"properties":{"name":"東京バニアンホテル (TOKYO BANYAN HOTEL)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.734130915912,35.6044664686145]},"properties":{"name":"ヴィアイン東京大井町 (VIAINN TOKYO-OIMACHI)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733851899185,35.605364977137]},"properties":{"name":"アワーズイン阪急 (OURS INN HANKYU)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.742740998416,35.6094976066112]},"properties":{"name":"東横イン 南品川"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.745015263221,35.6130845623617]},"properties":{"name":"スーパーホテル品川・青物横丁 (Super Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.722514980637,35.6266210138359]},"properties":{"name":"TOKO Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.724219174562,35.6248847052007]},"properties":{"name":"ホテルロイヤルオーク 五反田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.728043302727,35.6253918230847]},"properties":{"name":"アリエッタ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.726252960365,35.6261429650034]},"properties":{"name":"ホテルサンルート五反田"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.724969986477,35.6273509692466]},"properties":{"name":"東急ステイ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.725560988102,35.6273449818431]},"properties":{"name":"日の出ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.736703601055,35.627635297379]},"properties":{"name":"品川プリンスホテル (Shinagawa Prince Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740737575669,35.627822658405]},"properties":{"name":"The Strings by Intercontinental Tokyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733496256164,35.6300175827568]},"properties":{"name":"グランドプリンスホテル新高輪"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.736039476565,35.6296057059]},"properties":{"name":"ホテルパシフィック東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735907154724,35.6308633803066]},"properties":{"name":"プリンスさくらタワー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735290191787,35.6320300609804]},"properties":{"name":"プリンスホテル高輪"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.670458777732,35.6451839207771]},"properties":{"name":"the b sangenjaya"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702121337225,35.6601130189139]},"properties":{"name":"Tokyu Inn"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.676676466971,35.6761504867312]},"properties":{"name":"サクラホテル幡ヶ谷 (Sakura Hotel Hatagaya)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.675253176235,35.6770655568634]},"properties":{"name":"ノーブル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.694048267598,35.6651151115783]},"properties":{"name":"Hotel New Washington"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698337004428,35.6625919899912]},"properties":{"name":"Hotel UNIZO"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698986306715,35.6631863039322]},"properties":{"name":"渋谷東武ホテル (Tobu Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.708386277848,35.6469993576113]},"properties":{"name":"Hotel Excellent"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.710130985793,35.6480830228504]},"properties":{"name":"ホテルシエスタ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.70411290221,35.6555095848098]},"properties":{"name":"ホテルメッツ渋谷"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.71315597268,35.6584869939702]},"properties":{"name":"島根イン 青山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.730547446413,35.6396851636035]},"properties":{"name":"シェラトン 都ホテル東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.713581414799,35.6639641675641]},"properties":{"name":"NHK青山荘"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716337176596,35.6652427580565]},"properties":{"name":"ホテルフロラシオン青山"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.716786334238,35.6687953206941]},"properties":{"name":"Tokyu Stay"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.731407852792,35.6638117045539]},"properties":{"name":"IBIS"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733647262963,35.6636782170742]},"properties":{"name":"the b roppongi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.733143667415,35.6713329145976]},"properties":{"name":"The b' Akasaka"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.742960636503,35.666121900299]},"properties":{"name":"Hotel Okura South Wing"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.737872578734,35.6715600914358]},"properties":{"name":"Avanshell Akasaka"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740683227595,35.6680126144754]},"properties":{"name":"ANA International インターコンチネンタルホテル東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740740001121,35.6682771663869]},"properties":{"name":"ANA Intercontinental Tokyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.744149107624,35.6678262234436]},"properties":{"name":"Hotel Okura North Wing"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74232921069,35.6721907537183]},"properties":{"name":"東横イン 溜池山王駅官邸南"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.735000215613,35.6797731981409]},"properties":{"name":"ホテルニューオータニ　ガーデンタワー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740922089629,35.6741016110372]},"properties":{"name":"The Capitol Hotel Tokyu"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748196556968,35.5481009523808]},"properties":{"name":"エアポートイン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748057138436,35.5516765533378]},"properties":{"name":"ホテルJALシティ羽田東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748845499929,35.609211753315]},"properties":{"name":"ホテルサンルート品川シーサイド (Hotel Sunroute)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.750454831761,35.6103413572028]},"properties":{"name":"ハートンホテル東品川 (Hearton Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.789591015092,35.6321389960625]},"properties":{"name":"ホテルサンルート有明"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.792974250115,35.6326538802456]},"properties":{"name":"ワシントンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.747850705584,35.6427285733788]},"properties":{"name":"Sotetsu Fresa Inn Tokyo-Tamachi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.750167101375,35.6483799058714]},"properties":{"name":"APA HOTEL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.755589781588,35.6498691951953]},"properties":{"name":"チサンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.748848733864,35.6510464747428]},"properties":{"name":"Celestine Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.751310207574,35.6558335199288]},"properties":{"name":"メルパルク"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.752623993677,35.6567729097456]},"properties":{"name":"芝大門ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75228146606,35.6568483086202]},"properties":{"name":"ホテル COMSOLOIL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.754476050299,35.6570767675054]},"properties":{"name":"カプセルイン浜松町"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.755196858483,35.6582130670374]},"properties":{"name":"ホテルマイステイズ 浜松町"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.754333667326,35.6596277986692]},"properties":{"name":"相鉄フレッサイン 浜松町大門,  Sotetsu Fresa Inn Hamamatsucho-Daimon"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.762218000912,35.6530574015169]},"properties":{"name":"Inter-Continental Tokyo Bay"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.749407755466,35.6652794682409]},"properties":{"name":"東急イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759627978285,35.6633462125279]},"properties":{"name":"Park Hotel Tokyo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.760569233039,35.6643617085676]},"properties":{"name":"ロイヤルパークホテル ザ 汐留"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759914181534,35.6690812528561]},"properties":{"name":"銀座日航ホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759520629608,35.6720877113439]},"properties":{"name":"帝国ホテルタワー (THE IMPERIAL TOWER)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75916336962,35.6722860604986]},"properties":{"name":"帝国ホテルプラザ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.763567090806,35.6689440522528]},"properties":{"name":"Hotel Gracery Ginza Washington Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.768938656878,35.6728411873927]},"properties":{"name":"ホテルモントレ銀座"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.769236448395,35.6737857772454]},"properties":{"name":"Moterey Lasoeur Ginza"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.78258496436,35.6785670080569]},"properties":{"name":"Hotel Villa Fontaine"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.782568615021,35.6831750229552]},"properties":{"name":"Sotetsu Fresa Inn Nihombashi-Ningyocho"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.801967913245,35.6693406197355]},"properties":{"name":"デイナイスホテル東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.799418674132,35.6821978550326]},"properties":{"name":"コンフォートホテル東京清澄白河"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.820076062911,35.6695133602368]},"properties":{"name":"R&B Hotel 東陽町"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.861482468628,35.6629583734177]},"properties":{"name":"ルミエール 西葛西"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.633486007099,35.7000807159165]},"properties":{"name":"ルートイン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.650038634019,35.7055947175056]},"properties":{"name":"ホテルメッツ高円寺"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.577641339147,35.7366828026538]},"properties":{"name":"ライオンズロック"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.690960668135,35.6851358167201]},"properties":{"name":"パーク ハイアット 東京 (Parc Hyatt Tokyo)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.688398942439,35.6886159920535]},"properties":{"name":"Shinjuku New City Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.686736610006,35.6910401613337]},"properties":{"name":"東急ステイ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.689773993645,35.6943819737818]},"properties":{"name":"Ascent Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.692554009954,35.6857870204517]},"properties":{"name":"京王プレッソイン新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.692855933721,35.6868319998014]},"properties":{"name":"Shinjuku Washington Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698387938904,35.687609997811]},"properties":{"name":"ブラッサム新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698881113995,35.6870906523308]},"properties":{"name":"Sunroute Plaza Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.700366927475,35.6864420129493]},"properties":{"name":"Century Southern Tower Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.691163238232,35.6907122103997]},"properties":{"name":"ハイアットリージェンシー"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.691345865729,35.6926300658571]},"properties":{"name":"ヒルトンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.693740953939,35.6944199837674]},"properties":{"name":"ホテルローズガーデン新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.69428641098,35.6941393952314]},"properties":{"name":"西鉄イン新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698057269048,35.6938283099594]},"properties":{"name":"Shinjuku Ibis Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.695662989321,35.6973299919948]},"properties":{"name":"Asuka Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.697341940587,35.6949810119674]},"properties":{"name":"Nishi Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.70012096875,35.6947460226127]},"properties":{"name":"Shinjuku Prince Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.701065008282,35.6953050057791]},"properties":{"name":"Shinjuku Kent Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.700469874407,35.6961234837202]},"properties":{"name":"グリーンプラザ新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702078936744,35.6972949744765]},"properties":{"name":"Vintage Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702089986022,35.6994035123371]},"properties":{"name":"GREEN HOTEL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.698628507737,35.7017199726851]},"properties":{"name":"Tokyo Plaza Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.702978509669,35.686045019698]},"properties":{"name":"Shinjuku Park Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.706397048483,35.6906507057696]},"properties":{"name":"AIM"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.704316190959,35.6944088215278]},"properties":{"name":"ベストウェスタン新宿 アスティナホテル東京"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707068000168,35.6941539864432]},"properties":{"name":"Shinjuku Sunlite Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.7114180021,35.6928989865521]},"properties":{"name":"Listel Shinjuku Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.710482676226,35.6933918838765]},"properties":{"name":"東京ビジネスホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.718398989836,35.6879999789531]},"properties":{"name":"Jal City Yotsuya Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707926250591,35.6985648603552]},"properties":{"name":"ホテルサンルート東新宿"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.727590192497,35.6867111733959]},"properties":{"name":"Mitsui Garden Hotel, Yotsuya"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.74198596442,35.6866738164025]},"properties":{"name":"ホテルモントレ半蔵門"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.740484789749,35.6999399210752]},"properties":{"name":"The AGNES"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.704880243126,35.7125874852129]},"properties":{"name":"ホテルサンルート高田馬場"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.674462748616,35.7637637731998]},"properties":{"name":"HOTEL ATAMI"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.707564948184,35.7334449246726]},"properties":{"name":"貴美旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.708804084287,35.7336240891394]},"properties":{"name":"サクラホテル池袋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.715602534357,35.7278018762875]},"properties":{"name":"京王プレッソイン池袋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719314103616,35.7446451736394]},"properties":{"name":"Hotel APA"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.727270661751,35.7326143604829]},"properties":{"name":"東横INN山手線大塚駅北口2"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.736550977288,35.7537739823368]},"properties":{"name":"London"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.720911757349,35.7769311183801]},"properties":{"name":"ホテル赤羽"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.72227423214,35.7768701904646]},"properties":{"name":"ホテルミッドイン赤羽駅前"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.722530611322,35.777572753545]},"properties":{"name":"ダイワロイネットホテル東京赤羽"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719755535747,35.7802110994227]},"properties":{"name":"サンライズイン赤羽"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.719842672329,35.7817893134212]},"properties":{"name":"スーパーホテル 赤羽"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.720016047179,35.7833481115079]},"properties":{"name":"東横イン 赤羽駅東口一番街"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.756467435621,35.6949708711807]},"properties":{"name":"サクラホテル神保町 (Sakura Hotel Jimbocho)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.753582945243,35.7036501103727]},"properties":{"name":"東京ドームホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.755759653008,35.7054279637229]},"properties":{"name":"Hotel Wing International Korakuen"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.765980953805,35.7013019730701]},"properties":{"name":"御茶ノ水 イン"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767547076672,35.7034430125351]},"properties":{"name":"湯島御苑"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767353399897,35.7046359149651]},"properties":{"name":"Mari"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767820703507,35.7047540881471]},"properties":{"name":"Linden"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.767821511991,35.7050077222186]},"properties":{"name":"江戸屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.772880015188,35.6871690140318]},"properties":{"name":"マンダリンオリエンタル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77735757789,35.6862936788155]},"properties":{"name":"Hotel Villa Fontaine"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.778803236676,35.6876264872299]},"properties":{"name":"スーパーホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770564966869,35.6894907181048]},"properties":{"name":"神田ステーションホテル (Kanda Station Hotel)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.779674961828,35.6852915223872]},"properties":{"name":"西鉄イン日本橋 (Nishitetsu Inn Nihombashi)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.779224366882,35.6855877563224]},"properties":{"name":"Hotel Sumisho"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.780444009543,35.6855250073541]},"properties":{"name":"Hotel Saibo"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.779836928074,35.6888747117595]},"properties":{"name":"Horidome Villa"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.783017682832,35.6940109194957]},"properties":{"name":"Comfort Hotel Tokyo Higashi Nihombashi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.78533973801,35.6939443834287]},"properties":{"name":"R&B"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773826929329,35.6972456581121]},"properties":{"name":"秋葉原ワシントンホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77367188011,35.6978575874097]},"properties":{"name":"レム秋葉原 (remm AKIHABARA)"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.768882871499,35.7047149159451]},"properties":{"name":"Tristan"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.755054385679,35.705573563283]},"properties":{"name":"Grand Hotel Suidobashi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.759790573351,35.7079549099276]},"properties":{"name":"ホテル機山館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.75828355963,35.7131664743703]},"properties":{"name":"フォレスト本郷"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.758909595552,35.7178541039457]},"properties":{"name":"旅館　更新館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764914294237,35.7210856872364]},"properties":{"name":"旅館　澤の屋"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.764676510181,35.7266436688934]},"properties":{"name":"アネックス勝太郎旅館"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.770347754233,35.70664126095]},"properties":{"name":"Ueno First City Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.772777247919,35.708770705026]},"properties":{"name":"サウナ＆カプセルホテル ダンディ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.776168298285,35.7087313889123]},"properties":{"name":"Hotel Sardonyx Ueno"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.775171437814,35.7097641051833]},"properties":{"name":"オリエンタル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.775680962243,35.7100420128429]},"properties":{"name":"きぬや本店"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.777847429214,35.7109892986791]},"properties":{"name":"Touganeya Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773124895934,35.7111036695344]},"properties":{"name":"Kinuya Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.778214031682,35.7118295705247]},"properties":{"name":"三井ガーデンホテル上野"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.779209095522,35.7101984722407]},"properties":{"name":""}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.782026751242,35.7125281126932]},"properties":{"name":"Chisun Hotel Ueno"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.782061156717,35.7128790955461]},"properties":{"name":"Hotel Mystays Ueno-Iriyaguchi"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.784619558647,35.7114007558173]},"properties":{"name":"Oak Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791979994758,35.6954809730441]},"properties":{"name":"ザ・ホテル ベルグランデ"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791509996202,35.6956139696042]},"properties":{"name":"両国リバーホテル"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.797074430566,35.698231323034]},"properties":{"name":"第一ホテル 両国"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.7945162083,35.706808522806]},"properties":{"name":"Chisun Inn Asakusa"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.791002178572,35.7089394942069]},"properties":{"name":"Agora Place Asakusa"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.792482961486,35.7184520176349]},"properties":{"name":"Toyoko Inn"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.795622842899,35.7166250045306]},"properties":{"name":"Wasou"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.794659579419,35.7227762922682]},"properties":{"name":"Soho　Asakusa 浅草 Hotel"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.800761385987,35.7266605148715]},"properties":{"name":"JUYOH HOTEL"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.801680182859,35.7181530613511]},"properties":{"name":"Sky Court"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.747181191202,35.7362264130413]},"properties":{"name":"HOTEL METS"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.761836486411,35.7388950046714]},"properties":{"name":"Hotel METS Tabata"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.77129269208,35.7284156129084]},"properties":{"name":"hotel sunny"}}
+ ,{"type":"Feature","geometry":{"type":"Point","coordinates":[139.773578275658,35.7798319182016]},"properties":{"name":"Celio"}}
+ ]
+ }
