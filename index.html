@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-zoomslider/v0.7.0/L.Control.Zoomslider.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-zoomslider/v0.7.0/L.Control.Zoomslider.css' rel='stylesheet' />
   </head>
 
   <body>
@@ -32,8 +34,8 @@ $(function() {
   "use strict";
 
   //地図のデフォルト値
-  var map = L.map('map').setView([35.65863174　, 139.74542422], 14);
-  
+  var map = L.map('map',{ zoomsliderControl: true,zoomControl: false }).setView([35.65863174　, 139.74542422], 14);
+
   //OSMレイヤー追加
   L.tileLayer(
       'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
