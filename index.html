@@ -4,17 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TokyoMap</title>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
-    <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/style.css">
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-zoomslider/v0.7.0/L.Control.Zoomslider.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-zoomslider/v0.7.0/L.Control.Zoomslider.css' rel='stylesheet' />
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Josefin+Slab:700" rel="stylesheet" type="text/css">
+    <link href="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" rel="stylesheet">
+    <link href="//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-zoomslider/v0.7.0/L.Control.Zoomslider.css" rel="stylesheet" />
+    <link href="/css/style.css" rel="stylesheet">
   </head>
 
   <body>
-
     <div id="header">TOKYO MAP</div>
 
     <input class="points" id="tourism" type="checkbox"><label for="tourism">tourism</label><br />
@@ -25,74 +22,13 @@
     <div id="map"></div>
 
     <div id="footer">
-    center of coordinates ：
-    <input id="latlonwgs" type="text" size="35" name="latlonwgs" value="35.65863174,139.74542422　(zoom.14)" readonly="readonly"/>
+      center of coordinates ：
+      <input id="latlonwgs" type="text" size="35" name="latlonwgs" value="35.65863174,139.74542422　(zoom.14)" readonly="readonly"/>
     </div>
 
-    <script>
-$(function() {
-  "use strict";
-
-  //地図のデフォルト値
-  var map = L.map('map',{ zoomsliderControl: true,zoomControl: false }).setView([35.65863174　, 139.74542422], 14);
-
-  //OSMレイヤー追加
-  L.tileLayer(
-      'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-      ,{
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>',
-        maxZoom: 18
-      }
-      ).addTo(map);
-
-  // スケールバーを追加
-  L.control.scale({imperial:false}).addTo(map);
-
-  var markers = new L.FeatureGroup();
-
-  // 地図を動かしたときに緯度経度を表示する。
-  map.on('moveend', function(e) {
-      setWgsLocation(map.getCenter().lat, map.getCenter().lng);
-  });
-
-  $("#reload").on("click", function() {
-
-    if (map.hasLayer(markers)) {
-      map.removeLayer(markers);
-      markers = new L.FeatureGroup();
-    }
-
-    $(".points").each(function(cnt, el) {
-      var $el = $(el);
-      if(!$el.is(":checked")) return;
-
-      $.getJSON("./data/" + $el.attr("id") + ".geojson", function(data) {
-        var geojson = L.geoJson(data, {
-          onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name);
-          }
-        });
-        markers.addLayer(geojson);
-      });
-    });
-
-    map.addLayer(markers);
-  });
-
-  // 世界測地系の緯度経度を設定
-  function setWgsLocation(lat, lon) {
-    var zoom = map.getZoom();
-    $('#latlonwgs').val(roundNum(lat) + "," + roundNum(lon) + "　(zoom." + zoom + ")");
-  };
-
-  // 小数点8桁に丸め
-  function roundNum(value) {
-    var num = parseFloat(value) * 100000000;
-    num = Math.round(num);
-    return (num / 100000000);
-  };
-
-});
-    </script>
+    <script src="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-zoomslider/v0.7.0/L.Control.Zoomslider.js"></script>
+    <script src="/js/app.js"></script>
   </body>
 </html>
