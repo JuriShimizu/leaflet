@@ -22,3 +22,11 @@
 	position: fixed;
 	right: 0px;
 } 
+
+.leaflet-control-zoomslider-body {
+    box-sizing: content-box;
+}
+
+.leaflet-control-zoomslider-knob {
+    box-sizing: content-box;
+}	
