@@ -1,26 +1,36 @@
 @charset "UTF-8";
+
+*{
+	background-color: #FFF6D9;
+}
+
 #map{
     width: 90%;
     height: 500px;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 #header {
-	font-size: 50px;
+	font-size: 70px;
 	font-family: 'Josefin Slab', serif;
-
+	background-color: #C3415D;
+	color: white;
+	text-align: center;
 } 
 
 #latlonwgs{
 	border:0;
-	background-color:floralwhite;
 	font-size: 15px;
 }
 
 #footer {
 	font-size: 17px;
-	position: fixed;
-	right: 0px;
+	text-align: right;
+}
+
+.menu {
+	font-size: 17px;
+	margin: 20px 0px 0px 30px ;
 } 
 
 .leaflet-control-zoomslider-body {
@@ -29,4 +39,8 @@
 
 .leaflet-control-zoomslider-knob {
     box-sizing: content-box;
-}	
+}
+
+.leaflet-top, .leaflet-bottom {
+    background-color: transparent;
+}

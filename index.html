@@ -14,16 +14,28 @@
   <body>
     <div id="header">TOKYO MAP</div>
 
-    <input class="points" id="tourism" type="checkbox"><label for="tourism">tourism</label><br />
-    <input class="points" id="restaurant" type="checkbox"><label for="restaurant">restaurant</label><br />
-    <input class="points" id="hotel" type="checkbox"><label for="hotel">hotel</label><br />
-    <input type="button" id="reload" value=" draw merkers "><br />
+    <div class="row">
+      <div class="col-md-2">
+        <div class="menu">
+          <div class="checkbox">
+            <label>
+              <input class="points" id="tourism" type="checkbox">tourism<br>
+              <input class="points" id="restaurant" type="checkbox">restaurant<br>
+              <input class="points" id="hotel" type="checkbox">hotel<br>
+            </label>
+          </div>
+          <input type="button" class="btn btn-default" id="reload" value=" draw merkers "><br>
+        </div>
 
-    <div id="map"></div>
+      </div>
+      <div class="col-md-10">
+        <div id="map"></div>
 
-    <div id="footer">
-      center of coordinates ：
-      <input id="latlonwgs" type="text" size="35" name="latlonwgs" value="35.65863174,139.74542422　(zoom.14)" readonly="readonly"/>
+        <div id="footer">
+          center of coordinates ：
+          <input id="latlonwgs" type="text" size="50" name="latlonwgs" value="35.65863174,139.74542422　(zoom.14)" readonly="readonly"/>
+        </div>
+      </div>
     </div>
 
     <script src="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
