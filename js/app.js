@@ -16,7 +16,37 @@ $(function() {
   // スケールバーを追加
   L.control.scale({imperial:false}).addTo(map);
 
+
   var markers = new L.FeatureGroup();
+
+  var drawnItems = new L.FeatureGroup().addTo(map);
+
+  // マーカーを置くためののコントローラ
+  var drawControl = new L.Control.Draw({
+    draw: {
+      polyline: {
+        shapeOptions:{
+          color: '#C3415D',
+          opacity: 0.8
+        }
+      }
+      ,polygon: false
+      ,rectangle: false
+      ,circle: false
+      ,marker: {
+        repeatMode: true
+      }
+    }
+    ,edit: {
+      featureGroup: drawnItems
+    }
+    ,position: 'topright'
+  }).addTo(map);
+
+  map.on('draw:created', function(e) {
+      drawnItems.addLayer(e.layer);
+  });
+
 
   // 地図を動かしたときに緯度経度を表示する。
   map.on("moveend", function(e) {

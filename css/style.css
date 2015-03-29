@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-*{
+body {
 	background-color: #FFF6D9;
 }
 
@@ -21,6 +21,7 @@
 #latlonwgs{
 	border:0;
 	font-size: 15px;
+	background-color: transparent;
 }
 
 #footer {
@@ -41,6 +42,3 @@
     box-sizing: content-box;
 }
 
-.leaflet-top, .leaflet-bottom {
-    background-color: transparent;
-}
